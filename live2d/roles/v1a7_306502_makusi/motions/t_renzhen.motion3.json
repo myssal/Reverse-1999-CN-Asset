@@ -1,0 +1,157 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.3,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 6,
+    "TotalSegmentCount": 26,
+    "TotalPointCount": 32,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.15,
+        0,
+        0.3,
+        0.53,
+        0.45,
+        0.557,
+        0,
+        0.867,
+        0,
+        0,
+        1.017,
+        0.188,
+        0,
+        1.5,
+        0,
+        1,
+        1.578,
+        0,
+        1.655,
+        0.489,
+        1.733,
+        0.596,
+        1,
+        1.911,
+        0.841,
+        2.089,
+        0.875,
+        2.267,
+        0.875,
+        0,
+        2.55,
+        0,
+        2,
+        3.3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0.949,
+        0,
+        0.133,
+        0.989,
+        0,
+        0.45,
+        0.223,
+        0,
+        0.717,
+        0.989,
+        0,
+        1.017,
+        0.223,
+        0,
+        1.217,
+        1,
+        0,
+        1.5,
+        0.3,
+        0,
+        1.733,
+        1,
+        0,
+        2,
+        0.192,
+        0,
+        2.25,
+        0.949,
+        0,
+        2.55,
+        0.228,
+        0,
+        2.8,
+        0.989,
+        0,
+        3.083,
+        0.192,
+        0,
+        3.3,
+        0.949
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeBallX",
+      "Segments": [
+        0,
+        0.2,
+        0,
+        3.3,
+        0.2
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLY2",
+      "Segments": [
+        0,
+        -1,
+        0,
+        3.3,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRY2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param8",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.3,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

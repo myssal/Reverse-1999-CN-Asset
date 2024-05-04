@@ -1,0 +1,49 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "v1a7_514501_kakaniya.moc3",
+    "Textures": [
+      "textures/514501_kakaniya_00.png",
+      "textures/514501_kakaniya_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/b_baoxiong.motion3.json"
+        },
+        {
+          "File": "motions/t_idle.motion3.json"
+        },
+        {
+          "File": "motions/b_zhuanqiang.motion3.json"
+        },
+        {
+          "File": "motions/t_yansu.motion3.json"
+        },
+        {
+          "File": "motions/t_kaixin_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_chijing_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_kaixin.motion3.json"
+        },
+        {
+          "File": "motions/t_chijing.motion3.json"
+        },
+        {
+          "File": "motions/b_idle.motion3.json"
+        },
+        {
+          "File": "motions/t_yansu_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

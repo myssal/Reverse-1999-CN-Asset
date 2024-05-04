@@ -1,0 +1,156 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.667,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 5,
+    "TotalSegmentCount": 27,
+    "TotalPointCount": 35,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0.8,
+        0,
+        0.333,
+        0.931,
+        0,
+        0.65,
+        0.039,
+        0,
+        0.867,
+        0.9,
+        0,
+        1.133,
+        0.086,
+        0,
+        1.367,
+        0.931,
+        0,
+        1.667,
+        0.3,
+        0,
+        1.933,
+        0.931,
+        0,
+        2.233,
+        0,
+        0,
+        2.5,
+        0.78,
+        0,
+        2.833,
+        0.1,
+        0,
+        3.117,
+        0.9,
+        0,
+        3.417,
+        0,
+        0,
+        3.667,
+        0.8
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthA",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.333,
+        -2,
+        1,
+        0.439,
+        -2,
+        0.544,
+        -1.871,
+        0.65,
+        0,
+        1,
+        0.722,
+        1.28,
+        0.795,
+        5,
+        0.867,
+        5,
+        0,
+        1.133,
+        -8,
+        1,
+        1.228,
+        -8,
+        1.322,
+        -8.108,
+        1.417,
+        -7.268,
+        1,
+        1.5,
+        -6.527,
+        1.584,
+        0,
+        1.667,
+        0,
+        2,
+        2.5,
+        0,
+        0,
+        2.833,
+        -5,
+        0,
+        3.117,
+        0,
+        2,
+        3.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "Segments": [
+        0,
+        1,
+        0,
+        3.667,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.667,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

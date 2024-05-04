@@ -1,0 +1,149 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.167,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 7,
+    "TotalSegmentCount": 22,
+    "TotalPointCount": 26,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.267,
+        0.7,
+        0,
+        0.567,
+        0,
+        0,
+        0.8,
+        0.8,
+        0,
+        1.067,
+        0,
+        0,
+        1.5,
+        1,
+        0,
+        1.967,
+        0,
+        0,
+        2.333,
+        0.6,
+        0,
+        2.633,
+        0,
+        0,
+        2.9,
+        1,
+        0,
+        3.167,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthO",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.8,
+        1,
+        1,
+        0.889,
+        1,
+        0.978,
+        0.548,
+        1.067,
+        0,
+        1,
+        1.189,
+        -0.753,
+        1.311,
+        -1,
+        1.433,
+        -1,
+        0,
+        1.867,
+        0.5,
+        0,
+        2.3,
+        0,
+        2,
+        3.167,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        -1.5,
+        0,
+        3.167,
+        -1.5
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamTooth2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.167,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamTooth3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.167,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamTooth4",
+      "Segments": [
+        0,
+        1,
+        0,
+        3.167,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamTooth5",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.167,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "305301_yaxian.moc3",
+    "Textures": [
+      "textures/305301_yaxian_00.png",
+      "textures/305301_yaxian_01.png",
+      "textures/305301_yaxian_bloom_00.png",
+      "textures/305301_yaxian_bloom_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/t_changge.motion3.json"
+        },
+        {
+          "File": "motions/t_haixiu_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_shengqi.motion3.json"
+        },
+        {
+          "File": "motions/t_weixiao_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/b_diantou.motion3.json"
+        },
+        {
+          "File": "motions/t_weixiao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_haixiu.motion3.json"
+        },
+        {
+          "File": "motions/t_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_nanguo.motion3.json"
+        },
+        {
+          "File": "motions/t_shengqi_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_weixiao.motion3.json"
+        },
+        {
+          "File": "motions/t_nanguo_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_shengqi_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_shengqi_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_haixiu_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_idle_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_idle_bizui.motion3.json"
+        },
+        {
+          "File": "motions/b_changge.motion3.json"
+        },
+        {
+          "File": "motions/b_fumo.motion3.json"
+        },
+        {
+          "File": "motions/t_haixiu_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_jingya_daiyatao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_nanguo_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/b_idle.motion3.json"
+        },
+        {
+          "File": "motions/t_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_nanguo_daiyatao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_idle_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_weixiao_daiyatao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_shengqi_daiyatao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_jingya_zhaiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_idle_daiyatao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_jingya_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        },
+        {
+          "File": "motions/t_haixiu_daiyatao_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_nanguo_bizui.motion3.json"
+        },
+        {
+          "File": "motions/b_huangpingzi.motion3.json"
+        },
+        {
+          "File": "motions/t_jingya_bizui.motion3.json"
+        },
+        {
+          "File": "motions/t_idle.motion3.json"
+        },
+        {
+          "File": "motions/t_weixiao_daiyatao.motion3.json"
+        },
+        {
+          "File": "motions/t_jingya.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen"
+      ]
+    }
+  ]
+}

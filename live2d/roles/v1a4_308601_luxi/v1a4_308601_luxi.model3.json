@@ -1,0 +1,34 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "v1a4_308601_luxi.moc3",
+    "Textures": [
+      "textures/308601_luxi_00.png",
+      "textures/308601_luxi_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        },
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        },
+        {
+          "File": "motions/b_baoxiong.motion3.json"
+        },
+        {
+          "File": "motions/b_taitou.motion3.json"
+        },
+        {
+          "File": "motions/b_sikao.motion3.json"
+        },
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

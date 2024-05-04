@@ -1,0 +1,139 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.733,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 5,
+    "TotalSegmentCount": 24,
+    "TotalPointCount": 28,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        1,
+        0,
+        0.767,
+        0,
+        0,
+        1.1,
+        1,
+        0,
+        1.4,
+        0,
+        0,
+        1.7,
+        0.72,
+        0,
+        2,
+        0,
+        0,
+        2.267,
+        0.72,
+        0,
+        2.567,
+        0,
+        0,
+        2.833,
+        1,
+        0,
+        3.233,
+        0,
+        0,
+        3.5,
+        1,
+        0,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthA",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        10,
+        1,
+        0.667,
+        10,
+        0.967,
+        9.48,
+        1.267,
+        7.887,
+        1,
+        1.311,
+        7.651,
+        1.356,
+        0,
+        1.4,
+        0,
+        2,
+        1.967,
+        0,
+        0,
+        2.2,
+        -8.419,
+        2,
+        2.967,
+        -8.419,
+        0,
+        3.133,
+        0,
+        2,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        -1,
+        0,
+        3.733,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.733,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

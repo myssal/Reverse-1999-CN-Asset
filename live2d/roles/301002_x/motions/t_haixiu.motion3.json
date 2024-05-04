@@ -1,0 +1,145 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.0,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 6,
+    "TotalSegmentCount": 26,
+    "TotalPointCount": 26,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        -0.4,
+        2,
+        0.233,
+        -0.4,
+        0,
+        1,
+        0,
+        0,
+        1.233,
+        -0.4,
+        2,
+        1.867,
+        -0.4,
+        2,
+        2.067,
+        -0.4,
+        0,
+        2.333,
+        -0.6,
+        0,
+        2.767,
+        -0.1,
+        0,
+        3,
+        -0.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        0.6,
+        0,
+        0.4,
+        0,
+        0,
+        0.667,
+        0.6,
+        0,
+        1,
+        0,
+        0,
+        1.233,
+        0.6,
+        0,
+        1.4,
+        0,
+        0,
+        1.667,
+        0.6,
+        0,
+        1.867,
+        0,
+        0,
+        2.067,
+        0.3,
+        2,
+        2.333,
+        0.3,
+        0,
+        2.567,
+        0.1,
+        0,
+        2.767,
+        0.5,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param74",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param75",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param79",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param80",
+      "Segments": [
+        0,
+        1,
+        0,
+        3,
+        1
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

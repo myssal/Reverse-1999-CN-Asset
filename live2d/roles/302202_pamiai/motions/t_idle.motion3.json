@@ -1,0 +1,115 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 2.867,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 3,
+    "TotalSegmentCount": 24,
+    "TotalPointCount": 24,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        -0.394,
+        0,
+        0.233,
+        -0.3,
+        2,
+        1.133,
+        -0.3,
+        2,
+        1.433,
+        -0.3,
+        0,
+        2.633,
+        -0.5,
+        0,
+        2.867,
+        -0.394
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0.4,
+        0,
+        0.233,
+        0.3,
+        0,
+        0.533,
+        0.4,
+        0,
+        0.833,
+        0.2,
+        0,
+        1.133,
+        0.5,
+        0,
+        1.433,
+        0.3,
+        0,
+        1.767,
+        0.5,
+        0,
+        2.033,
+        0.3,
+        0,
+        2.367,
+        0.51,
+        0,
+        2.633,
+        0.4,
+        2,
+        2.867,
+        0.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param133",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.267,
+        17,
+        0,
+        0.633,
+        0,
+        2,
+        1.133,
+        0,
+        0,
+        1.433,
+        30,
+        0,
+        1.8,
+        2,
+        0,
+        2.1,
+        25,
+        0,
+        2.467,
+        0,
+        2,
+        2.867,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

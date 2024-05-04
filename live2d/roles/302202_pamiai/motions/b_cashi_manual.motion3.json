@@ -1,0 +1,30 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 0.0,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 1,
+    "TotalSegmentCount": 1,
+    "TotalPointCount": 1,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Drawables/bone3",
+      "Id": "effect-Bone",
+      "Segments": [
+        0,
+        1
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}
