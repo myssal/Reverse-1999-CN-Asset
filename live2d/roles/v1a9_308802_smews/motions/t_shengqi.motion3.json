@@ -1,0 +1,148 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.733,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 6,
+    "TotalSegmentCount": 27,
+    "TotalPointCount": 27,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        1,
+        0,
+        0.767,
+        0,
+        0,
+        1.1,
+        1,
+        0,
+        1.4,
+        0,
+        0,
+        1.7,
+        0.867,
+        0,
+        2,
+        0,
+        0,
+        2.267,
+        1,
+        0,
+        2.567,
+        0,
+        0,
+        2.833,
+        1,
+        0,
+        3.233,
+        0,
+        0,
+        3.5,
+        0.867,
+        0,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthA",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.367,
+        0,
+        0,
+        0.767,
+        -10,
+        2,
+        1.733,
+        -10,
+        0,
+        2,
+        7.928,
+        0,
+        2.267,
+        -2,
+        2,
+        2.567,
+        -2,
+        0,
+        2.833,
+        -9,
+        2,
+        3.233,
+        -9,
+        0,
+        3.5,
+        0,
+        2,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "Segments": [
+        0,
+        -1,
+        0,
+        3.733,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthO",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.733,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}
