@@ -1,96 +1,206 @@
 {
   "Version": 3,
+  "Name": "v1a7_308102_yisuoerde",
   "FileReferences": {
     "Moc": "v1a7_308102_yisuoerde.moc3",
     "Textures": [
       "textures/308102_yisuoerde_00.png",
       "textures/308102_yisuoerde_01.png",
       "textures/308102_yisuoerde_bloom_00.png",
-      "textures/308102_yisuoerde_bloom_01.png"
+      "textures/308102_yisuoerde_bloom_01.png",
+      "textures/cloud_noise_e_1.png",
+      "textures/glow_00175_hs.png",
+      "textures/glow_002_wx.png",
+      "textures/mask_126_hs.png",
+      "textures/noise_0007_xyq.png",
+      "textures/noise_029_gt.png",
+      "textures/noise_051_wx.png",
+      "textures/noise_123_hl.png",
+      "textures/noise_13_ld_manual.png"
     ],
     "Physics": null,
     "Motions": {
-      "": [
+      "b_diantou": [
         {
           "File": "motions/b_diantou.motion3.json"
-        },
-        {
-          "File": "motions/b_idle.motion3.json"
-        },
-        {
-          "File": "motions/t_jingkong1_bizui.motion3.json"
-        },
-        {
-          "File": "motions/t_liulei.motion3.json"
-        },
-        {
-          "File": "motions/t_idle.motion3.json"
-        },
-        {
-          "File": "motions/b_yaotou.motion3.json"
-        },
-        {
-          "File": "motions/t_jingkong2.motion3.json"
-        },
-        {
-          "File": "motions/b_geju_02.motion3.json"
-        },
-        {
-          "File": "motions/t_jingkong1.motion3.json"
-        },
-        {
-          "File": "motions/t_kaixin_bizui.motion3.json"
-        },
-        {
-          "File": "motions/b_liaofa.motion3.json"
-        },
-        {
-          "File": "motions/t_shengqi.motion3.json"
-        },
-        {
-          "File": "motions/b_geju_01.motion3.json"
-        },
-        {
-          "File": "motions/t_shengqi_bizui.motion3.json"
-        },
+        }
+      ],
+      "b_fuxiong": [
         {
           "File": "motions/b_fuxiong.motion3.json"
-        },
-        {
-          "File": "motions/b_geju_03.motion3.json"
-        },
-        {
-          "File": "motions/b_wuzui.motion3.json"
-        },
+        }
+      ],
+      "b_geju": [
         {
           "File": "motions/b_geju.motion3.json"
-        },
+        }
+      ],
+      "b_geju_01": [
         {
-          "File": "motions/t_kaixin.motion3.json"
-        },
+          "File": "motions/b_geju_01.motion3.json"
+        }
+      ],
+      "b_geju_02": [
         {
-          "File": "motions/t_nanguo_bizui.motion3.json"
-        },
+          "File": "motions/b_geju_02.motion3.json"
+        }
+      ],
+      "b_geju_03": [
         {
-          "File": "motions/t_bizui.motion3.json"
-        },
+          "File": "motions/b_geju_03.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_jiangling": [
         {
           "File": "motions/b_jiangling.motion3.json"
-        },
+        }
+      ],
+      "b_liaofa": [
         {
-          "File": "motions/t_liulei_bizui.motion3.json"
-        },
+          "File": "motions/b_liaofa.motion3.json"
+        }
+      ],
+      "b_wuzui": [
         {
-          "File": "motions/t_jingkong2_bizui.motion3.json"
-        },
+          "File": "motions/b_wuzui.motion3.json"
+        }
+      ],
+      "b_yaoqing": [
         {
           "File": "motions/b_yaoqing.motion3.json"
-        },
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_jingkong1": [
+        {
+          "File": "motions/t_jingkong1.motion3.json"
+        }
+      ],
+      "t_jingkong1_bizui": [
+        {
+          "File": "motions/t_jingkong1_bizui.motion3.json"
+        }
+      ],
+      "t_jingkong2": [
+        {
+          "File": "motions/t_jingkong2.motion3.json"
+        }
+      ],
+      "t_jingkong2_bizui": [
+        {
+          "File": "motions/t_jingkong2_bizui.motion3.json"
+        }
+      ],
+      "t_kaixin": [
+        {
+          "File": "motions/t_kaixin.motion3.json"
+        }
+      ],
+      "t_kaixin_bizui": [
+        {
+          "File": "motions/t_kaixin_bizui.motion3.json"
+        }
+      ],
+      "t_liulei": [
+        {
+          "File": "motions/t_liulei.motion3.json"
+        }
+      ],
+      "t_liulei_bizui": [
+        {
+          "File": "motions/t_liulei_bizui.motion3.json"
+        }
+      ],
+      "t_nanguo": [
         {
           "File": "motions/t_nanguo.motion3.json"
         }
+      ],
+      "t_nanguo_bizui": [
+        {
+          "File": "motions/t_nanguo_bizui.motion3.json"
+        }
+      ],
+      "t_shengqi": [
+        {
+          "File": "motions/t_shengqi.motion3.json"
+        }
+      ],
+      "t_shengqi_bizui": [
+        {
+          "File": "motions/t_shengqi_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_jingkong2",
+        "File": "expressions/e_jingkong2.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_liulei",
+        "File": "expressions/e_liulei.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_jingkong1",
+        "File": "expressions/e_jingkong1.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeLOpen2"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
       ]
     }
-  },
-  "Groups": []
+  ]
 }

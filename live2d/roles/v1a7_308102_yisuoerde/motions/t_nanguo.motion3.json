@@ -2,19 +2,62 @@
   "Version": 3,
   "Meta": {
     "Duration": 5.0,
-    "Fps": 60.0,
+    "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 5,
     "TotalSegmentCount": 27,
     "TotalPointCount": 27,
-    "UserDataCount": 1,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "Param32",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        5,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param31",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param33",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -54,7 +97,7 @@
         0,
         3.733,
         0,
-        2,
+        0,
         3.917,
         0,
         0,
@@ -74,6 +117,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthOpenY2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -83,7 +128,7 @@
         0,
         1.133,
         0,
-        2,
+        0,
         2.033,
         0,
         0,
@@ -92,49 +137,11 @@
         0,
         2.667,
         0,
-        2,
-        5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param32",
-      "Segments": [
-        0,
-        1,
-        0,
-        5,
-        1
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param31",
-      "Segments": [
-        0,
-        0,
-        0,
-        5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param33",
-      "Segments": [
-        0,
-        0,
         0,
         5,
         0
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

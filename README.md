@@ -1,5 +1,5 @@
 # **Reverse1999 Assets**
-![Header image](singlebg/storybg/story_atcg/1_8/1_8_at_weiladenggao3.png)
+![Header image](singlebg/storybg/story_atcg/2_1/2_1_at_zhanlanshoupa6.png)
 
  > Sorted assets (kinda) for [Reverse 1999](https://www.biligame.com/detail/?id=107530) CN Version. Star is welcomed.
 

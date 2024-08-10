@@ -1,9 +1,30 @@
 
 301201_nongchen.png
-size: 1368,160
+size: 1416,160
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+a_shengrishouzhang_nc
+  rotate: true
+  xy: 508, 3
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+a_shengrishouzhi_nc
+  rotate: true
+  xy: 467, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+a_xiannvbang
+  rotate: true
+  xy: 620, 2
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
 nc_binjiao
   rotate: true
   xy: 242, 3
@@ -13,49 +34,49 @@ nc_binjiao
   index: -1
 nc_bq_att
   rotate: true
-  xy: 794, 2
+  xy: 1252, 17
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
   index: -1
 nc_bq_die
   rotate: true
-  xy: 1226, 102
-  size: 56, 47
+  xy: 1221, 98
+  size: 60, 48
   orig: 60, 48
-  offset: 1, 0
+  offset: 0, 0
   index: -1
 nc_bq_hit
   rotate: true
-  xy: 1238, 18
+  xy: 1271, 105
   size: 53, 48
   orig: 53, 48
   offset: 0, 0
   index: -1
 nc_bq_idle
   rotate: true
-  xy: 845, 2
+  xy: 809, 2
   size: 56, 50
   orig: 56, 50
   offset: 0, 0
   index: -1
 nc_bq_win
   rotate: true
-  xy: 940, 5
+  xy: 861, 2
   size: 56, 50
   orig: 56, 50
   offset: 0, 0
   index: -1
 nc_dazhan1
-  rotate: true
-  xy: 1230, 73
+  rotate: false
+  xy: 1286, 75
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 nc_dazhan2
   rotate: true
-  xy: 1284, 79
+  xy: 1315, 75
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
@@ -82,22 +103,22 @@ nc_jiandai
   offset: 0, 0
   index: -1
 nc_kuadai2
-  rotate: false
-  xy: 607, 2
+  rotate: true
+  xy: 1176, 73
   size: 85, 43
   orig: 85, 43
   offset: 0, 0
   index: -1
 nc_kuaidai1
-  rotate: false
-  xy: 491, 7
+  rotate: true
+  xy: 1321, 108
   size: 50, 31
   orig: 50, 31
   offset: 0, 0
   index: -1
 nc_lian
   rotate: false
-  xy: 1063, 2
+  xy: 1077, 2
   size: 75, 69
   orig: 75, 69
   offset: 0, 0
@@ -111,7 +132,7 @@ nc_liuhai1
   index: -1
 nc_mao_1
   rotate: false
-  xy: 992, 2
+  xy: 1006, 2
   size: 69, 60
   orig: 69, 60
   offset: 0, 0
@@ -125,7 +146,7 @@ nc_mao_2
   index: -1
 nc_mao_3
   rotate: true
-  xy: 1176, 102
+  xy: 956, 5
   size: 56, 48
   orig: 56, 48
   offset: 0, 0
@@ -146,7 +167,7 @@ nc_mao_yan1
   index: -1
 nc_mao_yan2
   rotate: true
-  xy: 1164, 4
+  xy: 1178, 4
   size: 67, 72
   orig: 67, 72
   offset: 0, 0
@@ -159,8 +180,8 @@ nc_meigui
   offset: 0, 0
   index: -1
 nc_meigui_z1
-  rotate: false
-  xy: 1260, 74
+  rotate: true
+  xy: 1258, 74
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
@@ -180,8 +201,8 @@ nc_meigui_z3
   offset: 0, 0
   index: -1
 nc_meigui_z4
-  rotate: false
-  xy: 467, 3
+  rotate: true
+  xy: 1221, 74
   size: 22, 35
   orig: 22, 35
   offset: 0, 0
@@ -216,42 +237,42 @@ nc_qunzi
   index: -1
 nc_shou1
   rotate: false
-  xy: 742, 2
+  xy: 757, 2
   size: 50, 55
   orig: 50, 55
   offset: 0, 0
   index: -1
 nc_shou2
   rotate: false
-  xy: 1275, 109
+  xy: 1354, 109
   size: 49, 49
   orig: 49, 49
   offset: 0, 0
   index: -1
 nc_shou3
   rotate: false
-  xy: 1326, 113
+  xy: 1332, 12
   size: 40, 45
   orig: 40, 45
   offset: 0, 0
   index: -1
 nc_shou4
   rotate: false
-  xy: 1288, 18
+  xy: 1354, 59
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 nc_shou5
   rotate: true
-  xy: 897, 4
+  xy: 913, 4
   size: 57, 41
   orig: 57, 41
   offset: 0, 0
   index: -1
 nc_shou6
   rotate: true
-  xy: 543, 2
+  xy: 556, 2
   size: 39, 62
   orig: 39, 62
   offset: 0, 0
@@ -292,15 +313,15 @@ nc_youtui2
   offset: 0, 0
   index: -1
 nc_youxiaobi
-  rotate: false
-  xy: 1176, 73
+  rotate: true
+  xy: 1303, 21
   size: 52, 27
   orig: 52, 27
   offset: 0, 0
   index: -1
 nc_zuodabi
   rotate: false
-  xy: 1140, 2
+  xy: 1154, 2
   size: 22, 69
   orig: 22, 69
   offset: 0, 0
@@ -321,14 +342,14 @@ nc_zuotui2
   index: -1
 nc_zuoxiaobi
   rotate: true
-  xy: 694, 2
+  xy: 709, 2
   size: 54, 46
   orig: 54, 46
   offset: 0, 0
   index: -1
 nc_zuoyao
   rotate: true
-  xy: 1326, 68
+  xy: 1374, 14
   size: 43, 37
   orig: 43, 37
   offset: 0, 0

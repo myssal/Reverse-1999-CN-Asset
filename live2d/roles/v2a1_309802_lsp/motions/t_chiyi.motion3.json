@@ -1,0 +1,156 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 2.8,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 6,
+    "TotalSegmentCount": 24,
+    "TotalPointCount": 28,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.8,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        2.8,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.8,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        1,
+        0,
+        0.667,
+        0,
+        0,
+        0.9,
+        1,
+        0,
+        1.167,
+        0,
+        0,
+        1.467,
+        1,
+        0,
+        1.8,
+        0,
+        1,
+        1.878,
+        0,
+        1.955,
+        0.904,
+        2.033,
+        0.903,
+        1,
+        2.122,
+        0.904,
+        2.211,
+        0,
+        2.3,
+        0,
+        0,
+        2.5,
+        1,
+        0,
+        2.8,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthA",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.667,
+        0,
+        0,
+        0.867,
+        4.63,
+        0,
+        1.167,
+        4.63,
+        0,
+        1.433,
+        0,
+        0,
+        1.667,
+        0,
+        0,
+        1.9,
+        10,
+        0,
+        2.333,
+        10,
+        0,
+        2.533,
+        0,
+        0,
+        2.8,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthO",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.8,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

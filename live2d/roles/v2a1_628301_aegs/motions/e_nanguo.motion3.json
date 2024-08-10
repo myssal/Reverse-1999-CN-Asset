@@ -1,0 +1,58 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 1.017,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 3,
+    "TotalSegmentCount": 4,
+    "TotalPointCount": 4,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMeiYan01",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.017,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMeiYan02",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        -1,
+        0,
+        1.017,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMeiYan03",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.017,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}
