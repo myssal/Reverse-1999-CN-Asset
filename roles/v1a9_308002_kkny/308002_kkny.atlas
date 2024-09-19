@@ -1,9 +1,37 @@
 
 308002_kkny.png
-size: 192,2048
+size: 196,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+A_yanhuashouzhang
+  rotate: false
+  xy: 152, 631
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+A_yanhuashouzhi
+  rotate: true
+  xy: 151, 1286
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+a_youjingtui
+  rotate: false
+  xy: 154, 312
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+a_zuojingtui
+  rotate: false
+  xy: 156, 811
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
 bj_djz
   rotate: false
   xy: 6, 1624
@@ -83,7 +111,7 @@ bj_sjz6
   index: -1
 bozi
   rotate: false
-  xy: 152, 167
+  xy: 154, 328
   size: 24, 28
   orig: 80, 39
   offset: 31, 9
@@ -139,14 +167,14 @@ bq_yansu
   index: -1
 daimao
   rotate: false
-  xy: 156, 63
+  xy: 161, 1906
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 er
   rotate: false
-  xy: 153, 1086
+  xy: 158, 541
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
@@ -167,7 +195,7 @@ fa2
   index: -1
 fa3
   rotate: false
-  xy: 153, 312
+  xy: 153, 1848
   size: 24, 50
   orig: 24, 50
   offset: 0, 0
@@ -209,7 +237,7 @@ hou_fa1
   index: -1
 hou_fa2
   rotate: 180
-  xy: 149, 631
+  xy: 141, 361
   size: 30, 66
   orig: 30, 66
   offset: 0, 0
@@ -223,7 +251,7 @@ hou_fa3
   index: -1
 hou_fadai2
   rotate: true
-  xy: 148, 371
+  xy: 146, 432
   size: 46, 36
   orig: 46, 36
   offset: 0, 0
@@ -251,14 +279,14 @@ jujingzi_shou1_1
   index: -1
 jujingzi_shou1_2
   rotate: false
-  xy: 159, 1737
+  xy: 163, 1523
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 jujingzi_shouwan
-  rotate: false
-  xy: 146, 2012
+  rotate: true
+  xy: 154, 1071
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
@@ -292,8 +320,8 @@ lingjie
   offset: 0, 0
   index: -1
 mao_meigui
-  rotate: false
-  xy: 128, 1567
+  rotate: true
+  xy: 146, 2003
   size: 39, 28
   orig: 39, 28
   offset: 0, 0
@@ -328,21 +356,21 @@ qunbai
   index: -1
 sheji_shou1_1
   rotate: false
-  xy: 159, 726
+  xy: 161, 1663
   size: 18, 29
   orig: 18, 29
   offset: 0, 0
   index: -1
 sheji_shou1_2
   rotate: false
-  xy: 157, 1705
+  xy: 158, 720
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 sheji_shou1_3
   rotate: false
-  xy: 157, 1664
+  xy: 160, 680
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
@@ -362,8 +390,8 @@ sheji_shou1_dabi
   offset: 0, 0
   index: -1
 sheji_shouwan
-  rotate: false
-  xy: 151, 1186
+  rotate: 270
+  xy: 152, 159
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
@@ -383,8 +411,8 @@ shenshou_dabi
   offset: 0, 0
   index: -1
 shenshou_shou1
-  rotate: true
-  xy: 143, 7
+  rotate: 270
+  xy: 142, 1543
   size: 53, 32
   orig: 53, 32
   offset: 0, 0
@@ -415,6 +443,13 @@ shenshou_xiaobi
   xy: 73, 757
   size: 57, 50
   orig: 57, 50
+  offset: 0, 0
+  index: -1
+xiannvbang
+  rotate: 180
+  xy: 134, 7
+  size: 43, 86
+  orig: 43, 86
   offset: 0, 0
   index: -1
 xiaotui1
@@ -475,7 +510,7 @@ yanjiing2
   index: -1
 yanjiing3
   rotate: false
-  xy: 156, 1858
+  xy: 158, 1715
   size: 18, 47
   orig: 18, 47
   offset: 0, 0
@@ -501,20 +536,6 @@ yaoshi_2
   orig: 30, 51
   offset: 2, 0
   index: -1
-yaoshi_3
-  rotate: true
-  xy: 160, 1526
-  size: 29, 19
-  orig: 29, 19
-  offset: 0, 0
-  index: -1
-yaoshi_4
-  rotate: false
-  xy: 148, 1768
-  size: 20, 83
-  orig: 20, 83
-  offset: 0, 0
-  index: -1
 youbi1
   rotate: false
   xy: 131, 484
@@ -531,7 +552,7 @@ youxiaobi
   index: -1
 zuodabi
   rotate: false
-  xy: 148, 423
+  xy: 146, 1779
   size: 25, 55
   orig: 25, 55
   offset: 0, 0
@@ -545,14 +566,14 @@ zuoshou1_1
   index: -1
 zuoshou1_2
   rotate: false
-  xy: 151, 545
+  xy: 155, 7
   size: 29, 19
   orig: 29, 19
   offset: 0, 0
   index: -1
 zuoshou1_3
   rotate: false
-  xy: 151, 1291
+  xy: 152, 1188
   size: 32, 32
   orig: 32, 32
   offset: 0, 0

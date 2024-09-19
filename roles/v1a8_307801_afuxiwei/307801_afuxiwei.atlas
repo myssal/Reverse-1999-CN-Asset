@@ -5,8 +5,8 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 afu001
-  rotate: true
-  xy: 608, 346
+  rotate: false
+  xy: 518, 7
   size: 20, 35
   orig: 20, 35
   offset: 0, 0
@@ -27,7 +27,7 @@ afu003
   index: -1
 afu004
   rotate: false
-  xy: 809, 12
+  xy: 308, 10
   size: 27, 28
   orig: 28, 37
   offset: 1, 0
@@ -62,14 +62,14 @@ afu012
   index: -1
 afu013
   rotate: false
-  xy: 98, 14
+  xy: 1950, 11
   size: 38, 23
   orig: 38, 23
   offset: 0, 0
   index: -1
 afu014
   rotate: false
-  xy: 1676, 198
+  xy: 607, 348
   size: 38, 18
   orig: 38, 18
   offset: 0, 0
@@ -125,7 +125,7 @@ afu022
   index: -1
 afu023
   rotate: false
-  xy: 1720, 194
+  xy: 1717, 194
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
@@ -237,7 +237,7 @@ afu037
   index: -1
 afu038
   rotate: true
-  xy: 49, 12
+  xy: 892, 10
   size: 31, 39
   orig: 32, 39
   offset: 1, 0
@@ -585,6 +585,20 @@ shengqi
   orig: 50, 34
   offset: 0, 0
   index: -1
+shengrishouzhang
+  rotate: true
+  xy: 1676, 191
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+shengrishouzhi
+  rotate: false
+  xy: 681, 12
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
 shouji
   rotate: false
   xy: 1540, 222
@@ -615,7 +629,7 @@ tiaoyue_16
   index: -1
 tiaoyue_17
   rotate: false
-  xy: 301, 18
+  xy: 403, 16
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
@@ -755,7 +769,7 @@ tibu_5
   index: -1
 tibu_6
   rotate: false
-  xy: 649, 356
+  xy: 651, 356
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
@@ -809,6 +823,13 @@ ttty
   orig: 28, 50
   offset: 0, 3
   index: -1
+xiannvbang
+  rotate: true
+  xy: 49, 7
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
 xuanyun
   rotate: false
   xy: 809, 46
@@ -818,7 +839,7 @@ xuanyun
   index: -1
 youshou
   rotate: false
-  xy: 1638, 10
+  xy: 809, 10
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
@@ -832,7 +853,7 @@ youshoubi
   index: -1
 zuoshou
   rotate: false
-  xy: 892, 8
+  xy: 1638, 7
   size: 26, 33
   orig: 26, 33
   offset: 0, 0

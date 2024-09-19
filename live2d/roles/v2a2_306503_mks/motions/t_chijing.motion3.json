@@ -1,0 +1,129 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.667,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 5,
+    "TotalSegmentCount": 21,
+    "TotalPointCount": 21,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLY2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        3.667,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRY2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param8",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.733,
+        0.4,
+        0,
+        1.833,
+        0.4,
+        0,
+        2.05,
+        0,
+        0,
+        3.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0.771,
+        0,
+        0.15,
+        0.837,
+        0,
+        0.517,
+        0.21,
+        0,
+        0.8,
+        0.837,
+        0,
+        1.133,
+        0.21,
+        0,
+        1.367,
+        0.855,
+        0,
+        1.667,
+        0.21,
+        0,
+        1.933,
+        0.855,
+        0,
+        2.233,
+        0.192,
+        0,
+        2.517,
+        0.771,
+        0,
+        2.833,
+        0.21,
+        0,
+        3.117,
+        0.837,
+        0,
+        3.417,
+        0.192,
+        0,
+        3.667,
+        0.771
+      ]
+    }
+  ],
+  "UserData": []
+}

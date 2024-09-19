@@ -104,7 +104,7 @@ repeat: none
   index: -1
 307701_dj_cly1
   rotate: false
-  xy: 643, 21
+  xy: 175, 15
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
@@ -209,7 +209,7 @@ repeat: none
   index: -1
 307701_kuabao3
   rotate: true
-  xy: 672, 25
+  xy: 1806, 25
   size: 18, 69
   orig: 18, 69
   offset: 0, 0
@@ -383,8 +383,8 @@ repeat: none
   offset: 0, 0
   index: -1
 307701_youshou1
-  rotate: true
-  xy: 1816, 19
+  rotate: false
+  xy: 1003, 10
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
@@ -473,6 +473,13 @@ A_307701_bq_gongji_tihuan
   orig: 53, 41
   offset: 0, 0
   index: -1
+a_xiannvbang2
+  rotate: 270
+  xy: 644, 7
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
 b_ling
   rotate: 270
   xy: 632, 119
@@ -524,7 +531,7 @@ b_yaodai2
   index: -1
 b_yaodai3
   rotate: false
-  xy: 1315, 25
+  xy: 732, 22
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
@@ -692,7 +699,7 @@ xiaowu_xiezi4
   index: -1
 xiaowu_xiezi5
   rotate: false
-  xy: 1014, 17
+  xy: 1315, 14
   size: 36, 35
   orig: 36, 35
   offset: 0, 0

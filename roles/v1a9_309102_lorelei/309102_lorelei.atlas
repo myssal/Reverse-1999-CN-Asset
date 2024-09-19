@@ -1,6 +1,6 @@
 
 309102_lorelei.png
-size: 1788,236
+size: 1828,236
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -48,7 +48,7 @@ Lrl_bq_siwang_yinying
   index: -1
 Lrl_bq_wuguan
   rotate: 270
-  xy: 1611, 127
+  xy: 1630, 112
   size: 55, 41
   orig: 55, 41
   offset: 0, 0
@@ -125,7 +125,7 @@ Lrl_posture_hailuo
   index: -1
 Lrl_posture_youshou
   rotate: true
-  xy: 1678, 63
+  xy: 1699, 21
   size: 36, 31
   orig: 36, 31
   offset: 0, 0
@@ -139,7 +139,7 @@ Lrl_posture_youxizi
   index: -1
 Lrl_posture_zuoshou
   rotate: true
-  xy: 1657, 125
+  xy: 1688, 63
   size: 41, 29
   orig: 41, 29
   offset: 0, 0
@@ -181,7 +181,7 @@ Lrl_qunzipidai
   index: -1
 Lrl_skill2_zuoshou
   rotate: 270
-  xy: 1653, 11
+  xy: 1690, 149
   size: 46, 34
   orig: 46, 34
   offset: 0, 0
@@ -215,8 +215,8 @@ Lrl_unique_youxiuzi
   offset: 0, 0
   index: -1
 Lrl_unique_zuoshou
-  rotate: 180
-  xy: 1649, 174
+  rotate: false
+  xy: 1656, 170
   size: 37, 55
   orig: 37, 55
   offset: 0, 0
@@ -244,7 +244,7 @@ Lrl_xq_hailuo
   index: -1
 Lrl_xq_jianbangpidai
   rotate: false
-  xy: 1736, 91
+  xy: 1783, 180
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
@@ -279,7 +279,7 @@ Lrl_xq_piaodai4
   index: -1
 Lrl_xq_pidai
   rotate: false
-  xy: 1683, 143
+  xy: 1713, 91
   size: 27, 55
   orig: 27, 55
   offset: 0, 0
@@ -300,14 +300,14 @@ Lrl_xw_yf1
   index: -1
 Lrl_xw_yf2
   rotate: false
-  xy: 1590, 76
+  xy: 1613, 59
   size: 27, 53
   orig: 27, 53
   offset: 0, 0
   index: -1
 Lrl_xw_yf3
-  rotate: true
-  xy: 1602, 194
+  rotate: false
+  xy: 1613, 12
   size: 34, 41
   orig: 34, 41
   offset: 0, 0
@@ -334,8 +334,8 @@ Lrl_youbianzi
   offset: 0, 0
   index: -1
 Lrl_youbingfa
-  rotate: false
-  xy: 1728, 127
+  rotate: true
+  xy: 1766, 102
   size: 29, 32
   orig: 29, 32
   offset: 0, 0
@@ -355,8 +355,8 @@ Lrl_youjiao
   offset: 1, 0
   index: -1
 Lrl_youshou
-  rotate: false
-  xy: 1613, 34
+  rotate: 180
+  xy: 1608, 169
   size: 41, 43
   orig: 41, 43
   offset: 0, 0
@@ -418,22 +418,22 @@ Lrl_zouxiuzi2_dazhao
   offset: 0, 0
   index: -1
 Lrl_zuobianzi
-  rotate: 180
-  xy: 1554, 165
+  rotate: true
+  xy: 1572, 102
   size: 62, 58
   orig: 62, 58
   offset: 0, 0
   index: -1
 Lrl_zuobingfa
   rotate: 270
-  xy: 1710, 50
+  xy: 1743, 183
   size: 36, 39
   orig: 36, 39
   offset: 0, 0
   index: -1
 Lrl_zuobingfa_tihuan
-  rotate: false
-  xy: 1686, 12
+  rotate: 180
+  xy: 1730, 134
   size: 35, 43
   orig: 35, 43
   offset: 0, 0
@@ -453,15 +453,15 @@ Lrl_zuojiao
   offset: 0, 0
   index: -1
 Lrl_zuoliuhai
-  rotate: 270
-  xy: 1623, 80
+  rotate: false
+  xy: 1654, 11
   size: 39, 49
   orig: 41, 49
   offset: 2, 0
   index: -1
 Lrl_zuoshou_dazhao2
   rotate: 180
-  xy: 1722, 191
+  xy: 1765, 137
   size: 29, 37
   orig: 29, 37
   offset: 0, 0
@@ -478,6 +478,34 @@ Lrl_zuoxiuzi1_dazhao
   xy: 1118, 26
   size: 64, 88
   orig: 64, 88
+  offset: 0, 0
+  index: -1
+a_shengribiaoqing
+  rotate: false
+  xy: 1554, 185
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+a_shengrishouzhang
+  rotate: false
+  xy: 1714, 186
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+a_shengrishouzhi
+  rotate: 270
+  xy: 1732, 51
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+a_yanhuabang
+  rotate: false
+  xy: 1651, 60
+  size: 43, 87
+  orig: 43, 87
   offset: 0, 0
   index: -1
 jj/lorelei_bianzi1
@@ -517,14 +545,14 @@ jj/lorelei_daijishou3
   index: -1
 jj/lorelei_daijishou4
   rotate: false
-  xy: 1727, 19
+  xy: 1768, 12
   size: 28, 34
   orig: 29, 34
   offset: 0, 0
   index: -1
 jj/lorelei_daijishou5
-  rotate: true
-  xy: 1692, 106
+  rotate: false
+  xy: 1736, 13
   size: 26, 32
   orig: 26, 32
   offset: 0, 0
@@ -586,8 +614,8 @@ jj/lorelei_toujin3
   offset: 0, 0
   index: -1
 jj/lorelei_toujin4
-  rotate: false
-  xy: 1755, 44
+  rotate: true
+  xy: 288, 9
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
@@ -607,15 +635,15 @@ jj/lorelei_tousheng2
   offset: 0, 0
   index: -1
 jj/lorelei_zhenzhu1
-  rotate: true
-  xy: 1750, 184
+  rotate: 270
+  xy: 1791, 56
   size: 45, 27
   orig: 45, 29
   offset: 0, 0
   index: -1
 jj/lorelei_zhenzhu2
   rotate: 180
-  xy: 1691, 161
+  xy: 1743, 53
   size: 44, 68
   orig: 44, 68
   offset: 0, 0
