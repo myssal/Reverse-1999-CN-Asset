@@ -1,31 +1,15 @@
 # **Reverse1999 Assets**
-![Header image](singlebg/storybg/story_atcg/2_1/2_1_at_zhanlanshoupa6.png)
+![Header image](singlebg/storybg/story_atcg/2_2/2_2_at_nana3.png)
 
- > Sorted assets (kinda) for [Reverse 1999](https://www.biligame.com/detail/?id=107530) CN Version. Star is welcomed.
+Dump assets for [Reverse 1999](https://www.biligame.com/detail/?id=107530) CN Version. Star is welcomed.
 
- > New repository to replace the old one. All assets had been moved to this repo so you can delete the previous one and clone this new repo.
+Will update lastest stuff asap if i'm not lazy.
 
- > Will update lastest stuff asap if i'm not lazy.
+To reduce size of clone, use this: `git clone --depth 1  https://github.com/myssal/Reverse-1999-CN-Asset.git`
 
+## Assets Directory Listing
+Use this [list](<https://arcanistsanctum.tumblr.com/post/758262189658406912/cn-assets-directory-listing>) to quickly navigate which assets you want. Big thanks to @sachisei of [Arcanist Sanctum blog](https://arcanistsanctum.tumblr.com) for creating this wonderful list.
 
-<details>
-<summary>Some paths for certain stuff.</summary>
-
-## Most common stuff, for others please search in the repo
-
-| Assets | Path |
-| :--- | :--- |
-| `Lobby Model` | [live2d/roles](https://github.com/myssal/Reverse1999CN/tree/master/live2d/roles) |
-| `Battle Sprite` | [roles](https://github.com/myssal/Reverse1999CN/tree/master/roles) |
-| `Story Spirte` | [rolesstory](https://github.com/myssal/Reverse1999CN/tree/master/rolesstory) |
-| `Arcanist Items` | [singlebg/data_pic](https://github.com/myssal/Reverse1999CN/tree/master/singlebg/data_pic) |
-| `Psychube` | [singlebg/equipment](https://github.com/myssal/Reverse1999CN/tree/master/singlebg/equipment) |
-| `Arcanist Illustration` | [singlebg/headicon_img](https://github.com/myssal/Reverse1999CN/tree/master/singlebg/headicon_img) |
-| `Arcanist Expression Sheet` | [singlebg/headicon_small](https://github.com/myssal/Reverse1999CN/tree/master/singlebg/headicon_small) |
-| `UTTU card`| [singlebg/seasoncelebritycard](https://github.com/myssal/Reverse1999CN/tree/master/singlebg/seasoncelebritycard) |
-| `Story CG`| [singlebg/storybg](https://github.com/myssal/Reverse1999CN/tree/master/singlebg/storybg) |
-
-</details>
 
 
 
