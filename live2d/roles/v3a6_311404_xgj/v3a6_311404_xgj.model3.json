@@ -4,12 +4,9 @@
   "FileReferences": {
     "Moc": "v3a6_311404_xgj.moc3",
     "Textures": [
-      "textures/311404_xgj_00_bloom.png",
       "textures/311404_xgj_00.png",
-      "textures/311404_xgj_01_bloom.png",
       "textures/311404_xgj_01.png",
       "textures/mask_003_cgq.png",
-      "textures/noise_027_tps.png",
       "textures/object_0217_dzx.png",
       "textures/object_63241_dzx.png"
     ],
@@ -164,32 +161,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_ganga",
-        "File": "expressions/e_ganga.exp3.json"
-      },
-      {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
-        "Name": "e_xingwu",
-        "File": "expressions/e_xingwu.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
-        "Name": "e_jingya",
-        "File": "expressions/e_jingya.exp3.json"
-      },
-      {
-        "Name": "e_deyi",
-        "File": "expressions/e_deyi.exp3.json"
-      },
-      {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -202,6 +175,70 @@
       {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
+      },
+      {
+        "Name": "e_ganga",
+        "File": "expressions/e_ganga.exp3.json"
+      },
+      {
+        "Name": "e_xingwu",
+        "File": "expressions/e_xingwu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_xingwu",
+        "File": "expressions/e_xingwu.exp3.json"
+      },
+      {
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_ganga",
+        "File": "expressions/e_ganga.exp3.json"
+      },
+      {
+        "Name": "e_nanguo_biyan",
+        "File": "expressions/e_nanguo_biyan.exp3.json"
       }
     ]
   },
@@ -210,8 +247,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

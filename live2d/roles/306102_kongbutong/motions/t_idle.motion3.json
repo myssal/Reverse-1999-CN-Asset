@@ -5,16 +5,46 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 0.4,
+    "FadeOutTime": 0.4,
     "CurveCount": 7,
-    "TotalSegmentCount": 31,
-    "TotalPointCount": 49,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 30,
+    "TotalPointCount": 55,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "Param3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        10,
+        0,
+        4,
+        10
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -86,7 +116,48 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Paramganga",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramnnaguo",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramchijing",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param17",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -114,7 +185,7 @@
         0,
         1.467,
         0.064,
-        2,
+        0,
         1.867,
         0.064,
         1,
@@ -134,71 +205,11 @@
         0,
         3.433,
         0,
-        2,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param3",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "Segments": [
-        0,
-        10,
-        0,
-        4,
-        10
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramganga",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramnnaguo",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramchijing",
-      "Segments": [
-        0,
-        0,
         0,
         4,
         0
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

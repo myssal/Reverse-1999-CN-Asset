@@ -4,45 +4,7 @@
   "FileReferences": {
     "Moc": "v2a6_310203_luopeila.moc3",
     "Textures": [
-      "textures/310203_luopeila_00.png",
-      "textures/310203_luopeila_bloom_00.png",
-      "textures/glow_00035.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_00211_hs.png",
-      "textures/glow_003_wx.png",
-      "textures/glow_008_wx.png",
-      "textures/glow_009_ld.png",
-      "textures/glow_020_ch.png",
-      "textures/mask_009_hs.png",
-      "textures/mask_011_hs.png",
-      "textures/mask_030_hs.png",
-      "textures/mask_075_hs.png",
-      "textures/mask_078_hs.png",
-      "textures/mask_104_hs.png",
-      "textures/mask_108_hs.png",
-      "textures/mask_115_hs.png",
-      "textures/mask_195c_hs.png",
-      "textures/mask_504_fy.png",
-      "textures/noise_002_dy.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_009_wx.png",
-      "textures/noise_015_gl16.png",
-      "textures/noise_016_gt.png",
-      "textures/noise_033_gt.png",
-      "textures/noise_049_xz.png",
-      "textures/noise_053_gt.png",
-      "textures/noise_135_hs.png",
-      "textures/smoke_002_xl_clamp.png",
-      "textures/trail_001_zy.png",
-      "textures/trail_002_hl.png",
-      "textures/trail_009_gl16.png",
-      "textures/trail_016_ycx.png",
-      "textures/trail_028_cgq.png",
-      "textures/trail_028_ld.png",
-      "textures/trail_063_hs.png",
-      "textures/trail_287_hs.png",
-      "textures/trail_324_hl.png"
+      "textures/310203_luopeila_00.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -210,12 +172,24 @@
     },
     "Expressions": [
       {
-        "Name": "e_yeyu",
-        "File": "expressions/e_yeyu.exp3.json"
-      },
-      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_kuxiao",
+        "File": "expressions/e_kuxiao.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_ganguo",
+        "File": "expressions/e_ganguo.exp3.json"
+      },
+      {
+        "Name": "e_zixin",
+        "File": "expressions/e_zixin.exp3.json"
       },
       {
         "Name": "e_shengqi",
@@ -230,20 +204,20 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_yeyu",
+        "File": "expressions/e_yeyu.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_ganguo",
         "File": "expressions/e_ganguo.exp3.json"
-      },
-      {
-        "Name": "e_zibi",
-        "File": "expressions/e_zibi.exp3.json"
-      },
-      {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
       },
       {
         "Name": "e_kuxiao",
@@ -254,8 +228,44 @@
         "File": "expressions/e_zixin.exp3.json"
       },
       {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_yeyu",
+        "File": "expressions/e_yeyu.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_zibi",
+        "File": "expressions/e_zibi.exp3.json"
+      },
+      {
+        "Name": "e_zibi",
+        "File": "expressions/e_zibi.exp3.json"
       }
     ]
   },
@@ -271,8 +281,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

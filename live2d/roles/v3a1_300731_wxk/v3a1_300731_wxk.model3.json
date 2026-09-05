@@ -6,38 +6,7 @@
     "Textures": [
       "textures/300731_wxk_00.png",
       "textures/300731_wxk_01.png",
-      "textures/300731_wxk_bloom_00.png",
-      "textures/300731_wxk_bloom_01.png",
-      "textures/glow_00067_hs.png",
-      "textures/glow_00211_hs.png",
-      "textures/glow_003_wx.png",
-      "textures/glow_011_gt.png",
-      "textures/glow_011_ycx.png",
-      "textures/glow_028_hs.png",
-      "textures/glow_031_wx.png",
-      "textures/mask_002_gl16.png",
-      "textures/mask_006_xz_c.png",
-      "textures/mask_167_hs.png",
-      "textures/mask_203_ch_kk.png",
-      "textures/noise_0009_xyq.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_01_ykh.png",
-      "textures/noise_057_hl.png",
-      "textures/noise_066_wx.png",
-      "textures/noise_113_hl.png",
-      "textures/noise_136_hs.png",
-      "textures/noise_144_hl.png",
-      "textures/noise_150_hs.png",
-      "textures/noise_185_hs.png",
-      "textures/noise_522_fy.png",
-      "textures/noise_530_fy.png",
-      "textures/noise_533_cx.png",
-      "textures/noise_533_fy.png",
-      "textures/noise_809_fy.png",
-      "textures/object_07151_dzx.png",
-      "textures/object_07152_dzx.png",
-      "textures/trail_001_wx.png",
-      "textures/trail_064_xz.png"
+      "textures/object_07152_dzx.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -127,6 +96,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -135,8 +108,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

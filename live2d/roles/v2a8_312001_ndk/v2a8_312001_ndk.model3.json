@@ -5,10 +5,7 @@
     "Moc": "v2a8_312001_ndk.moc3",
     "Textures": [
       "textures/312001_ndk_00.png",
-      "textures/312001_ndk_01.png",
-      "textures/312001_ndk_bloom_00.png",
-      "textures/312001_ndk_bloom_01.png",
-      "textures/object_029_dzx.png"
+      "textures/312001_ndk_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -123,11 +120,6 @@
           "File": "motions/t_nanguo.motion3.json"
         }
       ],
-      "t_nanguo_bizui": [
-        {
-          "File": "motions/t_nanguo_bizui.motion3.json"
-        }
-      ],
       "t_nanguo2": [
         {
           "File": "motions/t_nanguo2.motion3.json"
@@ -136,6 +128,11 @@
       "t_nanguo2_bizui": [
         {
           "File": "motions/t_nanguo2_bizui.motion3.json"
+        }
+      ],
+      "t_nanguo_bizui": [
+        {
+          "File": "motions/t_nanguo_bizui.motion3.json"
         }
       ],
       "t_qinei": [
@@ -161,6 +158,34 @@
     },
     "Expressions": [
       {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_jingkong",
+        "File": "expressions/e_jingkong.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_qinei",
+        "File": "expressions/e_qinei.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
@@ -169,24 +194,24 @@
         "File": "expressions/e_kaixin.exp3.json"
       },
       {
+        "Name": "e_jingkong",
+        "File": "expressions/e_jingkong.exp3.json"
+      },
+      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
-        "Name": "e_renzhen",
-        "File": "expressions/e_renzhen.exp3.json"
+        "Name": "e_qinei",
+        "File": "expressions/e_qinei.exp3.json"
       },
       {
         "Name": "e_nanguo2",
         "File": "expressions/e_nanguo2.exp3.json"
       },
       {
-        "Name": "e_jingkong",
-        "File": "expressions/e_jingkong.exp3.json"
-      },
-      {
-        "Name": "e_qinei",
-        "File": "expressions/e_qinei.exp3.json"
+        "Name": "e_nanguo2",
+        "File": "expressions/e_nanguo2.exp3.json"
       }
     ]
   },

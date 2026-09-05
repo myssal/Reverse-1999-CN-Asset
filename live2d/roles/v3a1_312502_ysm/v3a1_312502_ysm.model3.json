@@ -5,27 +5,7 @@
     "Moc": "v3a1_312502_ysm.moc3",
     "Textures": [
       "textures/312502_ysm_00.png",
-      "textures/312502_ysm_01.png",
-      "textures/312502_ysm_bloom_00.png",
-      "textures/312502_ysm_bloom_01.png",
-      "textures/glow_0002_xyq.png",
-      "textures/mask_001_gl17.png",
-      "textures/mask_075_hs.png",
-      "textures/mask_174c_hs.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_002_lw.png",
-      "textures/noise_028_gt.png",
-      "textures/noise_029_gt.png",
-      "textures/noise_034_gt.png",
-      "textures/noise_055_wx.png",
-      "textures/noise_058_wx.png",
-      "textures/noise_065_hs.png",
-      "textures/noise_141_hl.png",
-      "textures/noise_197_xl.png",
-      "textures/noise_501_fy.png",
-      "textures/object_018_hs.png",
-      "textures/smoke_002_ybl.png",
-      "textures/trail_021_tps.png"
+      "textures/312502_ysm_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -145,11 +125,6 @@
           "File": "motions/t_nanguo.motion3.json"
         }
       ],
-      "t_nanguo_bizui": [
-        {
-          "File": "motions/t_nanguo_bizui.motion3.json"
-        }
-      ],
       "t_nanguo2": [
         {
           "File": "motions/t_nanguo2.motion3.json"
@@ -160,14 +135,14 @@
           "File": "motions/t_nanguo2_bizui.motion3.json"
         }
       ],
+      "t_nanguo_bizui": [
+        {
+          "File": "motions/t_nanguo_bizui.motion3.json"
+        }
+      ],
       "t_renzhen": [
         {
           "File": "motions/t_renzhen.motion3.json"
-        }
-      ],
-      "t_renzhen_bizui": [
-        {
-          "File": "motions/t_renzhen_bizui.motion3.json"
         }
       ],
       "t_renzhen2": [
@@ -178,6 +153,11 @@
       "t_renzhen2_bizui": [
         {
           "File": "motions/t_renzhen2_bizui.motion3.json"
+        }
+      ],
+      "t_renzhen_bizui": [
+        {
+          "File": "motions/t_renzhen_bizui.motion3.json"
         }
       ],
       "t_xiahu": [
@@ -207,6 +187,42 @@
         "File": "expressions/e_jinzhang.exp3.json"
       },
       {
+        "Name": "e_renzhen2",
+        "File": "expressions/e_renzhen2.exp3.json"
+      },
+      {
+        "Name": "e_nanguo2",
+        "File": "expressions/e_nanguo2.exp3.json"
+      },
+      {
+        "Name": "e_xiahu",
+        "File": "expressions/e_xiahu.exp3.json"
+      },
+      {
+        "Name": "e_jingkong",
+        "File": "expressions/e_jingkong.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
+        "Name": "e_jinzhang",
+        "File": "expressions/e_jinzhang.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
         "Name": "e_xiahu",
         "File": "expressions/e_xiahu.exp3.json"
       },
@@ -215,28 +231,28 @@
         "File": "expressions/e_renzhen2.exp3.json"
       },
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
-        "Name": "e_renzhen",
-        "File": "expressions/e_renzhen.exp3.json"
-      },
-      {
         "Name": "e_jingkong",
         "File": "expressions/e_jingkong.exp3.json"
-      },
-      {
-        "Name": "e_nanguo2",
-        "File": "expressions/e_nanguo2.exp3.json"
       },
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_xingfen",
-        "File": "expressions/e_xingfen.exp3.json"
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_nanguo2",
+        "File": "expressions/e_nanguo2.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -245,9 +261,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
+        "ParamEyeROpen2",
         "ParamEyeROpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {

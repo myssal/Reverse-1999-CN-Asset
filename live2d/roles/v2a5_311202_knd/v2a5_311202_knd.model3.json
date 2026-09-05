@@ -5,24 +5,7 @@
     "Moc": "v2a5_311202_knd.moc3",
     "Textures": [
       "textures/311202_knd_00.png",
-      "textures/311202_knd_01.png",
-      "textures/311202_knd_bloom_00.png",
-      "textures/311202_knd_bloom_01.png",
-      "textures/cloud_noise_e_1.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_002_tps.png",
-      "textures/glow_011_ycx.png",
-      "textures/mask_504_fy.png",
-      "textures/noise_114_hl.png",
-      "textures/noise_185_hs.png",
-      "textures/object_092_zy.png",
-      "textures/object_102_hy.png",
-      "textures/object_104_hy.png",
-      "textures/object_105_hy.png",
-      "textures/object_106_hy.png",
-      "textures/object_107_hy.png",
-      "textures/object_110_hy.png"
+      "textures/311202_knd_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -87,14 +70,14 @@
           "File": "motions/t_chijing.motion3.json"
         }
       ],
-      "t_chijing_bizui": [
-        {
-          "File": "motions/t_chijing_bizui.motion3.json"
-        }
-      ],
       "t_chijing01": [
         {
           "File": "motions/t_chijing01.motion3.json"
+        }
+      ],
+      "t_chijing_bizui": [
+        {
+          "File": "motions/t_chijing_bizui.motion3.json"
         }
       ],
       "t_ganga": [
@@ -157,6 +140,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -172,8 +159,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

@@ -4,14 +4,9 @@
   "FileReferences": {
     "Moc": "v1a5_307502_shasirong.moc3",
     "Textures": [
-      "textures/307502_shasirong_bloom.png",
-      "textures/307502_shasirong.png",
-      "textures/noise_0004_xyq.png",
-      "textures/noise_521_fy.png",
-      "textures/object_0166_dzx.png",
-      "textures/object_0167_dzx.png"
+      "textures/307502_shasirong.png"
     ],
-    "DisplayInfo": null,
+    "DisplayInfo": "v1a5_307502_shasirong.cdi3.json",
     "Physics": null,
     "Motions": {
       "b_chayao": [
@@ -122,12 +117,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_haixiu",
-        "File": "expressions/e_haixiu.exp3.json"
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_nanguo",
@@ -138,16 +129,48 @@
         "File": "expressions/e_kaixin.exp3.json"
       },
       {
-        "Name": "e_yaoshouzhi",
-        "File": "expressions/e_yaoshouzhi.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
       },
       {
+        "Name": "e_yaoshouzhi",
+        "File": "expressions/e_yaoshouzhi.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_yaoshouzhi",
+        "File": "expressions/e_yaoshouzhi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },
@@ -156,8 +179,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

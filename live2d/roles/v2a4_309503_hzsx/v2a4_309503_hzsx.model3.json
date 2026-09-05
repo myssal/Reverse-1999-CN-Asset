@@ -5,17 +5,7 @@
     "Moc": "v2a4_309503_hzsx.moc3",
     "Textures": [
       "textures/309503_hzsx_00.png",
-      "textures/309503_hzsx_01.png",
-      "textures/309503_hzsx_bloom_00.png",
-      "textures/309503_hzsx_bloom_01.png",
-      "textures/glow_00028_hs.png",
-      "textures/glow_026_gt.png",
-      "textures/glow_028_gt.png",
-      "textures/mask_073_hs.png",
-      "textures/noise_06_ld.png",
-      "textures/object_052_ycx.png",
-      "textures/object_073_xz.png",
-      "textures/object_104_hs.png"
+      "textures/309503_hzsx_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -148,16 +138,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_kailang",
-        "File": "expressions/e_kailang.exp3.json"
-      },
-      {
-        "Name": "e_biyan",
-        "File": "expressions/e_biyan.exp3.json"
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_chensi",
@@ -168,8 +150,44 @@
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
         "Name": "e_weixiao",
         "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_kailang",
+        "File": "expressions/e_kailang.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_chensi",
+        "File": "expressions/e_chensi.exp3.json"
+      },
+      {
+        "Name": "e_kailang",
+        "File": "expressions/e_kailang.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       },
       {
         "Name": "e_renzhen",
@@ -178,6 +196,10 @@
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },
@@ -193,8 +215,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

@@ -5,17 +5,7 @@
     "Moc": "v2a8_311502_jjsg.moc3",
     "Textures": [
       "textures/311502_jjsg_00.png",
-      "textures/311502_jjsg_01.png",
-      "textures/311502_jjsg_bloom_00.png",
-      "textures/311502_jjsg_bloom_01.png",
-      "textures/cloud_noise_e_1.png",
-      "textures/glow_0001_xyq.png",
-      "textures/mask_015_hl.png",
-      "textures/mask_018_02zy.png",
-      "textures/noise_016_gl16.png",
-      "textures/noise_114_hl.png",
-      "textures/noise_182_hs.png",
-      "textures/object_029_dzx.png"
+      "textures/311502_jjsg_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -163,10 +153,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
       },
@@ -175,8 +161,28 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       }
     ]
   },
@@ -185,9 +191,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
+        "ParamEyeROpen2",
         "ParamEyeROpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {

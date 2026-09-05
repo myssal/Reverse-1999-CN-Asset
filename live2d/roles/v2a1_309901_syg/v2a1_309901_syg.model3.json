@@ -4,9 +4,9 @@
   "FileReferences": {
     "Moc": "v2a1_309901_syg.moc3",
     "Textures": [
-      "textures/309901_syg_00.png",
-      "textures/309901_syg_bloom_00.png"
+      "textures/309901_syg_00.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_diantou": [
@@ -119,6 +119,30 @@
         "File": "expressions/e_yansu.exp3.json"
       },
       {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
@@ -132,16 +156,5 @@
       }
     ]
   },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
-    }
-  ]
+  "Groups": []
 }

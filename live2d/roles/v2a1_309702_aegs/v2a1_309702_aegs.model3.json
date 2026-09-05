@@ -5,22 +5,9 @@
     "Moc": "v2a1_309702_aegs.moc3",
     "Textures": [
       "textures/309702_aegs_00.png",
-      "textures/309702_aegs_01.png",
-      "textures/309702_aegs_bloom_00.png",
-      "textures/309702_aegs_bloom_01.png",
-      "textures/fire_005_wx.png",
-      "textures/fire_006_xz.png",
-      "textures/fire_011_xz_01.png",
-      "textures/fire_011_xz_02.png",
-      "textures/fire_011_xz_03.png",
-      "textures/fire_014_sj.png",
-      "textures/glow_00175_hs.png",
-      "textures/ma_001_gl16.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_011_gt.png",
-      "textures/trail_009_gl16.png",
-      "textures/trail_023_zy.png"
+      "textures/309702_aegs_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_baoxiong": [
@@ -170,6 +157,34 @@
       {
         "Name": "e_shenmishu",
         "File": "expressions/e_shenmishu.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_shiming",
+        "File": "expressions/e_shiming.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_shenmishu",
+        "File": "expressions/e_shenmishu.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_kaixin",

@@ -5,9 +5,7 @@
     "Moc": "v3a7_314701_wmz.moc3",
     "Textures": [
       "textures/314701_wmz_00.png",
-      "textures/314701_wmz_01.png",
-      "textures/314701_wmz_bloom_00.png",
-      "textures/314701_wmz_bloom_01.png"
+      "textures/314701_wmz_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -135,12 +133,24 @@
     },
     "Expressions": [
       {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
       {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_mianju",
+        "File": "expressions/e_mianju.exp3.json"
       },
       {
         "Name": "e_weixiao",
@@ -151,12 +161,24 @@
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
-        "Name": "e_yihuo",
-        "File": "expressions/e_yihuo.exp3.json"
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
       },
       {
         "Name": "e_mianju",
         "File": "expressions/e_mianju.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },
@@ -172,8 +194,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

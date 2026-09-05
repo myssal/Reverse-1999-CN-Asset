@@ -5,16 +5,59 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 6,
-    "TotalSegmentCount": 27,
-    "TotalPointCount": 39,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 26,
+    "TotalPointCount": 44,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "ParamMouth1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouth2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouth3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        10,
+        0,
+        3,
+        10
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -53,6 +96,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthA",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -62,7 +107,7 @@
         0,
         0.767,
         -0.577,
-        2,
+        0,
         1.367,
         -0.577,
         1,
@@ -90,10 +135,12 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthO",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
-        2,
+        0,
         0.533,
         0,
         0,
@@ -128,45 +175,7 @@
         3,
         0
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouth1",
-      "Segments": [
-        0,
-        0,
-        0,
-        3,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouth2",
-      "Segments": [
-        0,
-        0,
-        0,
-        3,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouth3",
-      "Segments": [
-        0,
-        10,
-        0,
-        3,
-        10
-      ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

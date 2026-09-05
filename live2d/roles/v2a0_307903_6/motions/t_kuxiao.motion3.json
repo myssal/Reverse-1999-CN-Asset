@@ -7,13 +7,26 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 1.0,
     "FadeOutTime": 1.0,
-    "CurveCount": 7,
-    "TotalSegmentCount": 28,
-    "TotalPointCount": 32,
+    "CurveCount": 9,
+    "TotalSegmentCount": 29,
+    "TotalPointCount": 42,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Param13",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
     {
       "Target": "Parameter",
       "Id": "Param2",
@@ -56,6 +69,19 @@
     {
       "Target": "Parameter",
       "Id": "Param3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param147",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

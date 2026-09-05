@@ -2,19 +2,62 @@
   "Version": 3,
   "Meta": {
     "Duration": 5.0,
-    "Fps": 60.0,
+    "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 5,
-    "TotalSegmentCount": 46,
-    "TotalPointCount": 70,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 45,
+    "TotalPointCount": 74,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "Param146",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param147",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param148",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param150",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -24,7 +67,7 @@
         0,
         0.5,
         0,
-        2,
+        0,
         0.55,
         0,
         0,
@@ -39,7 +82,7 @@
         0,
         1.583,
         0,
-        2,
+        0,
         1.617,
         0,
         0,
@@ -60,7 +103,7 @@
         0,
         2.917,
         0,
-        2,
+        0,
         2.983,
         0,
         0,
@@ -69,7 +112,7 @@
         0,
         3.5,
         0,
-        2,
+        0,
         3.617,
         0,
         0,
@@ -78,7 +121,7 @@
         0,
         4.183,
         0,
-        2,
+        0,
         4.217,
         0,
         0,
@@ -98,6 +141,8 @@
     {
       "Target": "Parameter",
       "Id": "Param218",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -201,45 +246,7 @@
         5,
         0
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param146",
-      "Segments": [
-        0,
-        0,
-        0,
-        5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param147",
-      "Segments": [
-        0,
-        0,
-        0,
-        5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param148",
-      "Segments": [
-        0,
-        0,
-        0,
-        5,
-        0
-      ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

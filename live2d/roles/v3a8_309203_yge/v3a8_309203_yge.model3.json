@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "v3a8_309203_yge.moc3",
     "Textures": [
-      "textures/309203_yge_00_bloom.png",
       "textures/309203_yge_00.png",
-      "textures/309203_yge_01_bloom.png",
       "textures/309203_yge_01.png",
       "textures/mask_259_hl.png"
     ],
@@ -146,14 +144,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_shiwang",
-        "File": "expressions/e_shiwang.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
       },
@@ -166,12 +156,52 @@
         "File": "expressions/e_weixiao.exp3.json"
       },
       {
+        "Name": "e_wenhe",
+        "File": "expressions/e_wenhe.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_zhuomo",
+        "File": "expressions/e_zhuomo.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
       },
       {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
         "Name": "e_wenhe",
         "File": "expressions/e_wenhe.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       },
       {
         "Name": "e_shengqi",

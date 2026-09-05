@@ -5,16 +5,9 @@
     "Moc": "v2a4_310901_ttsz.moc3",
     "Textures": [
       "textures/310901_ttsz_00.png",
-      "textures/310901_ttsz_01.png",
-      "textures/310901_ttsz_bloom_00.png",
-      "textures/310901_ttsz_bloom_01.png",
-      "textures/glow_0003_xyq.png",
-      "textures/glow_021_hl.png",
-      "textures/mask_002_lw.png",
-      "textures/noise_002_lw.png",
-      "textures/object_670_hs.png",
-      "textures/trail_033_xz.png"
+      "textures/310901_ttsz_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_baishou": [
@@ -184,6 +177,42 @@
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_beike1",
+        "File": "expressions/e_beike1.exp3.json"
+      },
+      {
+        "Name": "e_beike3",
+        "File": "expressions/e_beike3.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_beike2",
+        "File": "expressions/e_beike2.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
         "Name": "e_beike3",
         "File": "expressions/e_beike3.exp3.json"
       },
@@ -223,8 +252,8 @@
       "Name": "EyeBlink",
       "Ids": [
         "ParamEyeROpen2",
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

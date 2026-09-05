@@ -6,8 +6,6 @@
     "Textures": [
       "textures/310905_ttsz_00.png",
       "textures/310905_ttsz_01.png",
-      "textures/310905_ttsz_bloom_00.png",
-      "textures/310905_ttsz_bloom_01.png",
       "textures/noise_035_wx.png",
       "textures/object_63101_dzx.png",
       "textures/object_63102_dzx.png"
@@ -158,14 +156,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
-      },
-      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
       },
@@ -178,6 +168,26 @@
         "File": "expressions/e_mimang.exp3.json"
       },
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
         "Name": "e_yihuo",
         "File": "expressions/e_yihuo.exp3.json"
       },
@@ -188,6 +198,26 @@
       {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_mimang",
+        "File": "expressions/e_mimang.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       }
     ]
   },
@@ -196,23 +226,23 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
+        "ParamEyeROpen2",
         "ParamEyeROpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY8",
-        "ParamMouthOpenY11",
-        "ParamMouthOpenY9",
+        "ParamMouthOpenY2",
         "ParamMouthOpenY10",
-        "ParamMouthOpenY5",
-        "ParamMouthOpenY4",
+        "ParamMouthOpenY9",
+        "ParamMouthOpenY11",
         "ParamMouthOpenY7",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY8",
+        "ParamMouthOpenY5",
+        "ParamMouthOpenY4"
       ]
     }
   ]

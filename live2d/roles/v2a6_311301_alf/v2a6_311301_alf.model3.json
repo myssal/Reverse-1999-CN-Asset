@@ -5,14 +5,7 @@
     "Moc": "v2a6_311301_alf.moc3",
     "Textures": [
       "textures/311301_alf_00.png",
-      "textures/311301_alf_01.png",
-      "textures/311301_alf_bloom_00.png",
-      "textures/311301_alf_bloom_01.png",
-      "textures/flowmap_001_zy_1.png",
-      "textures/mask_001_sj.png",
-      "textures/noise_0007_xyq.png",
-      "textures/object_0125_dzx.png",
-      "textures/object_0126_dzx.png"
+      "textures/311301_alf_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -122,6 +115,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -130,9 +127,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
+        "ParamEyeROpen2",
         "ParamEyeROpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {

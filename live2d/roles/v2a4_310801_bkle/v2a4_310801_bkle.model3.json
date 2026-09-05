@@ -5,10 +5,9 @@
     "Moc": "v2a4_310801_bkle.moc3",
     "Textures": [
       "textures/310801_bkle_00.png",
-      "textures/310801_bkle_01.png",
-      "textures/310801_bkle_bloom_00.png",
-      "textures/310801_bkle_bloom_01.png"
+      "textures/310801_bkle_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_chayao": [
@@ -140,6 +139,34 @@
         "File": "expressions/e_renzhen.exp3.json"
       },
       {
+        "Name": "e_jinzhang",
+        "File": "expressions/e_jinzhang.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_chenzui",
+        "File": "expressions/e_chenzui.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
       },
@@ -165,8 +192,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

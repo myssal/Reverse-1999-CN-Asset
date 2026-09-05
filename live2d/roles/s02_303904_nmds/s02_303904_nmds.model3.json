@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "s02_303904_nmds.moc3",
     "Textures": [
-      "textures/303904_nmds_00_bloom.png",
       "textures/303904_nmds_00.png",
-      "textures/303904_nmds_01_bloom.png",
       "textures/303904_nmds_01.png",
       "textures/glow_011_tps_yc.png",
       "textures/noise_021_zn.png",
@@ -128,8 +126,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
       },
       {
         "Name": "e_kunjuan",
@@ -140,12 +138,12 @@
         "File": "expressions/e_shengqi.exp3.json"
       },
       {
-        "Name": "e_dahaqian",
-        "File": "expressions/e_dahaqian.exp3.json"
-      },
-      {
         "Name": "e_deyi",
         "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_dahaqian",
+        "File": "expressions/e_dahaqian.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -154,6 +152,34 @@
       {
         "Name": "e_yihuo",
         "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_kunjuan",
+        "File": "expressions/e_kunjuan.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_dahaqian",
+        "File": "expressions/e_dahaqian.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },

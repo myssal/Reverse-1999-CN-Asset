@@ -7,9 +7,9 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 1.0,
     "FadeOutTime": 1.0,
-    "CurveCount": 4,
+    "CurveCount": 5,
     "TotalSegmentCount": 5,
-    "TotalPointCount": 5,
+    "TotalPointCount": 10,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -56,6 +56,19 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.017,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthO",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

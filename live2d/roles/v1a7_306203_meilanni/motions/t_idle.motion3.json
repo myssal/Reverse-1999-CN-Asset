@@ -2,19 +2,75 @@
   "Version": 3,
   "Meta": {
     "Duration": 4.0,
-    "Fps": 60.0,
+    "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 10,
-    "TotalSegmentCount": 34,
-    "TotalPointCount": 34,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 33,
+    "TotalPointCount": 43,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "Param133",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param134",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param135",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param136",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -73,7 +129,61 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param129",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param130",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param131",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param132",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -86,7 +196,7 @@
         0,
         1.333,
         0,
-        2,
+        0,
         2.2,
         0,
         0,
@@ -98,104 +208,11 @@
         0,
         3.533,
         0,
-        2,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param133",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param134",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param135",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param136",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param129",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param130",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param131",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param132",
-      "Segments": [
-        0,
-        0,
         0,
         4,
         0
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

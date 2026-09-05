@@ -4,18 +4,7 @@
   "FileReferences": {
     "Moc": "v2a7_311701_kphh.moc3",
     "Textures": [
-      "textures/311701_kphh_bloom.png",
-      "textures/311701_kphh.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_001_zy_1.png",
-      "textures/glow_041_lth.png",
-      "textures/mask_011_hs.png",
-      "textures/mask_078_hs.png",
-      "textures/mask_135c_hs.png",
-      "textures/noise_009_wx.png",
-      "textures/noise_033_gt.png",
-      "textures/object_001_ybcll.png",
-      "textures/trail_018_ld_c.png"
+      "textures/311701_kphh.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -123,8 +112,44 @@
     },
     "Expressions": [
       {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
         "Name": "e_zhaoji",
         "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_zhaoji",
+        "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_nanguo",
@@ -133,18 +158,6 @@
       {
         "Name": "e_weixiao",
         "File": "expressions/e_weixiao.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_renzhen",
-        "File": "expressions/e_renzhen.exp3.json"
-      },
-      {
-        "Name": "e_yihuo",
-        "File": "expressions/e_yihuo.exp3.json"
       }
     ]
   },

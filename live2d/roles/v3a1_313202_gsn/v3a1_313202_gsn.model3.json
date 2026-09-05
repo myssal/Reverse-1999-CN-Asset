@@ -5,37 +5,7 @@
     "Moc": "v3a1_313202_gsn.moc3",
     "Textures": [
       "textures/313202_gsn_00.png",
-      "textures/313202_gsn_01.png",
-      "textures/313202_gsn_bloom_00.png",
-      "textures/313202_gsn_bloom_01.png",
-      "textures/glow_0001_xyq.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_002_ld.png",
-      "textures/glow_00210_hs.png",
-      "textures/glow_00211_hs.png",
-      "textures/glow_00224334_hs.png",
-      "textures/glow_005_dy.png",
-      "textures/glow_024_wx.png",
-      "textures/lighting_001_xl02.png",
-      "textures/mask_0070_hy.png",
-      "textures/mask_024_hs.png",
-      "textures/mask_075_hs.png",
-      "textures/mask_108_wjy.png",
-      "textures/mask_177c_hy.png",
-      "textures/mask_604_hy.png",
-      "textures/mask_607_ch_kk.png",
-      "textures/noise_016_gt.png",
-      "textures/noise_023_wx.png",
-      "textures/noise_08_ld.png",
-      "textures/noise_201_hs.png",
-      "textures/noise_805_fy.png",
-      "textures/object_015_gt.png",
-      "textures/object_03083_xz.png",
-      "textures/object_7306_dzx.png",
-      "textures/smoke_054_hs.png",
-      "textures/trail_090_xz.png",
-      "textures/trail_091_xz.png",
-      "textures/trail_092_xz.png"
+      "textures/313202_gsn_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -208,12 +178,16 @@
     },
     "Expressions": [
       {
-        "Name": "e_zhenjing",
-        "File": "expressions/e_zhenjing.exp3.json"
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_sisuo",
+        "File": "expressions/e_sisuo.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
       },
       {
         "Name": "e_weixiao",
@@ -224,12 +198,32 @@
         "File": "expressions/e_chenmo.exp3.json"
       },
       {
-        "Name": "e_sisuo",
-        "File": "expressions/e_sisuo.exp3.json"
+        "Name": "e_zhenjing",
+        "File": "expressions/e_zhenjing.exp3.json"
       },
       {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_sisuo",
+        "File": "expressions/e_sisuo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_zhenjing",
+        "File": "expressions/e_zhenjing.exp3.json"
+      },
+      {
+        "Name": "e_chenmo",
+        "File": "expressions/e_chenmo.exp3.json"
       }
     ]
   },

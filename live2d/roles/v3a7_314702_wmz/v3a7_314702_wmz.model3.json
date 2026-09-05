@@ -6,18 +6,10 @@
     "Textures": [
       "textures/314702_wmz_00.png",
       "textures/314702_wmz_01.png",
-      "textures/314702_wmz_bloom_00.png",
-      "textures/314702_wmz_bloom_01.png",
       "textures/glow_007_tps.png",
-      "textures/glow_021_xz.png",
       "textures/glow_507_hl.png",
       "textures/noise_002_zn.png",
-      "textures/noise_004_sjy.png",
-      "textures/noise_009_dr_manual.png",
       "textures/noise_077_tps.png",
-      "textures/object_03183_xz.png",
-      "textures/object_03185_xz.png",
-      "textures/object_03186_xz.png",
       "textures/object_631611_dzx.png",
       "textures/object_631612_dzx.png",
       "textures/object_631613_dzx.png",
@@ -154,12 +146,36 @@
     },
     "Expressions": [
       {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
         "Name": "e_yihuo",
         "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_mianju",
+        "File": "expressions/e_mianju.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -191,8 +207,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

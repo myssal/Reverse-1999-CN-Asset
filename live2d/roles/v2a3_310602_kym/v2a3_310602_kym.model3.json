@@ -4,13 +4,9 @@
   "FileReferences": {
     "Moc": "v2a3_310602_kym.moc3",
     "Textures": [
-      "textures/310602_kym.png",
-      "textures/mask_018_zy.png",
-      "textures/noise_0004_xyq.png",
-      "textures/noise_002_wx.png",
-      "textures/noise_186_hl.png",
-      "textures/object_719_cx.png"
+      "textures/310602_kym.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_chongfeng": [
@@ -68,19 +64,12 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
-    }
-  ]
+  "Groups": []
 }

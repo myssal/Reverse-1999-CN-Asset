@@ -4,14 +4,9 @@
   "FileReferences": {
     "Moc": "v2a3_304304_tnt.moc3",
     "Textures": [
-      "textures/304304_tnt_bloom.png",
-      "textures/304304_tnt.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_022_wx.png",
-      "textures/mask_502_zy_c.png",
-      "textures/trail_206_hl.png",
-      "textures/trail_292_hs.png"
+      "textures/304304_tnt.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_baoxiong": [
@@ -162,6 +157,42 @@
       {
         "Name": "e_zixin",
         "File": "expressions/e_zixin.exp3.json"
+      },
+      {
+        "Name": "e_zixin",
+        "File": "expressions/e_zixin.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_buxie",
+        "File": "expressions/e_buxie.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_weixiao",

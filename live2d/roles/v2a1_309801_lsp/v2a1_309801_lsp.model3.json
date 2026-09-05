@@ -5,10 +5,9 @@
     "Moc": "v2a1_309801_lsp.moc3",
     "Textures": [
       "textures/309801_lsp_00.png",
-      "textures/309801_lsp_01.png",
-      "textures/309801_lsp_bloom_00.png",
-      "textures/309801_lsp_bloom_01.png"
+      "textures/309801_lsp_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_daliang": [
@@ -132,6 +131,30 @@
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
+      },
+      {
+        "Name": "e_yuyue",
+        "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_chiyi",
+        "File": "expressions/e_chiyi.exp3.json"
       },
       {
         "Name": "e_chiyi",

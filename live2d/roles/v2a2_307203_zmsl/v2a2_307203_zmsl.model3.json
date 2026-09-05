@@ -5,14 +5,9 @@
     "Moc": "v2a2_307203_zmsl.moc3",
     "Textures": [
       "textures/307203_zmsl_00.png",
-      "textures/307203_zmsl_01.png",
-      "textures/307203_zmsl_bloom_00.png",
-      "textures/307203_zmsl_bloom_01.png",
-      "textures/glow_001_wjy.png",
-      "textures/glow_001_wx.png",
-      "textures/mask_011_hs.png",
-      "textures/noise_008_dzx.png"
+      "textures/307203_zmsl_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_baishou": [
@@ -149,6 +144,38 @@
       {
         "Name": "e_shilou",
         "File": "expressions/e_shilou.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_shilou",
+        "File": "expressions/e_shilou.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
       },
       {
         "Name": "e_yansu",

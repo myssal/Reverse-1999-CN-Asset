@@ -6,12 +6,6 @@
     "Textures": [
       "textures/313201_gsn_00.png",
       "textures/313201_gsn_01.png",
-      "textures/313201_gsn_bloom_00.png",
-      "textures/313201_gsn_bloom_01.png",
-      "textures/lighting_001_xl02.png",
-      "textures/mask_0070_hy.png",
-      "textures/mask_024_hs.png",
-      "textures/mask_108_wjy.png",
       "textures/object_7306_dzx.png"
     ],
     "DisplayInfo": null,
@@ -180,8 +174,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
         "Name": "e_chenmo",
@@ -192,8 +186,16 @@
         "File": "expressions/e_zhenjing.exp3.json"
       },
       {
-        "Name": "e_weixiao",
-        "File": "expressions/e_weixiao.exp3.json"
+        "Name": "e_sisuo",
+        "File": "expressions/e_sisuo.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_sisuo",
@@ -202,6 +204,22 @@
       {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_zhenjing",
+        "File": "expressions/e_zhenjing.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chenmo",
+        "File": "expressions/e_chenmo.exp3.json"
       }
     ]
   },

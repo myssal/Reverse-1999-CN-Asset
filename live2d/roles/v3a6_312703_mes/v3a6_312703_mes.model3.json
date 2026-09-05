@@ -4,27 +4,14 @@
   "FileReferences": {
     "Moc": "v3a6_312703_mes.moc3",
     "Textures": [
-      "textures/312703_mes_00_bloom.png",
       "textures/312703_mes_00.png",
-      "textures/312703_mes_01_bloom.png",
       "textures/312703_mes_01.png",
-      "textures/fire_002_zn.png",
-      "textures/fire_003_zn.png",
       "textures/fire_51164_dzx_manual.png",
-      "textures/glow_013_zn.png",
-      "textures/glow_032_yc.png",
-      "textures/glow_033_yc.png",
-      "textures/glow_034_yc.png",
-      "textures/glow_038_yc.png",
-      "textures/glow_089_yc.png",
       "textures/object_1030_dzx.png",
       "textures/object_51153_dzx_manual.png",
       "textures/object_51154_dzx_manual.png",
       "textures/object_51164_dzx_manual.png",
-      "textures/object_890_dzx.png",
-      "textures/trail_033_zn.png",
-      "textures/trail_034_zn.png",
-      "textures/trail_042_yc.png"
+      "textures/object_890_dzx.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -187,30 +174,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
-      },
-      {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
-        "Name": "e_lianhong",
-        "File": "expressions/e_lianhong.exp3.json"
-      },
-      {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
       },
@@ -221,6 +184,66 @@
       {
         "Name": "e_zhaoji",
         "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_lianhong",
+        "File": "expressions/e_lianhong.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_zhaoji",
+        "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_lianhong",
+        "File": "expressions/e_lianhong.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },

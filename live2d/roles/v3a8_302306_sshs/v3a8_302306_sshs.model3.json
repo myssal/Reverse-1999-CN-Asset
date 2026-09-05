@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "v3a8_302306_sshs.moc3",
     "Textures": [
-      "textures/302306_sshs_00_bloom.png",
       "textures/302306_sshs_00.png",
-      "textures/302306_sshs_01_bloom.png",
       "textures/302306_sshs_01.png"
     ],
     "DisplayInfo": null,
@@ -150,8 +148,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_biyan",
-        "File": "expressions/e_biyan.exp3.json"
+        "Name": "e_chenzui",
+        "File": "expressions/e_chenzui.exp3.json"
       },
       {
         "Name": "e_kaixin",
@@ -162,10 +160,6 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
-      },
-      {
         "Name": "e_sisuo",
         "File": "expressions/e_sisuo.exp3.json"
       },
@@ -174,8 +168,48 @@
         "File": "expressions/e_haixiu.exp3.json"
       },
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_sisuo",
+        "File": "expressions/e_sisuo.exp3.json"
+      },
+      {
         "Name": "e_chenzui",
         "File": "expressions/e_chenzui.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       },
       {
         "Name": "e_nanguo",

@@ -7,9 +7,9 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 1.0,
     "FadeOutTime": 1.0,
-    "CurveCount": 243,
-    "TotalSegmentCount": 1083,
-    "TotalPointCount": 1657,
+    "CurveCount": 245,
+    "TotalSegmentCount": 1086,
+    "TotalPointCount": 1905,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -371,7 +371,7 @@
         0.07,
         1,
         4.572,
-        -0,
+        0,
         4.595,
         0,
         4.617,
@@ -397,7 +397,7 @@
         5.878,
         0,
         5.889,
-        -0,
+        0,
         5.9,
         0.039,
         1,
@@ -1158,6 +1158,38 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param168",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.667,
+        0,
+        0,
+        9.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param211",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.667,
+        0,
+        0,
+        9.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param170",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -1791,8 +1823,8 @@
     {
       "Target": "Parameter",
       "Id": "Param181",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
+      "FadeInTime": 0.0,
+      "FadeOutTime": 0.0,
       "Segments": [
         0,
         0,
@@ -1822,8 +1854,8 @@
     {
       "Target": "Parameter",
       "Id": "Param184",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
+      "FadeInTime": 0.0,
+      "FadeOutTime": 0.0,
       "Segments": [
         0,
         0,
@@ -1859,8 +1891,8 @@
     {
       "Target": "Parameter",
       "Id": "Param185",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
+      "FadeInTime": 0.0,
+      "FadeOutTime": 0.0,
       "Segments": [
         0,
         0,
@@ -1911,8 +1943,8 @@
     {
       "Target": "Parameter",
       "Id": "Param186",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
+      "FadeInTime": 0.0,
+      "FadeOutTime": 0.0,
       "Segments": [
         0,
         0,
@@ -1957,8 +1989,8 @@
     {
       "Target": "Parameter",
       "Id": "Param182",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
+      "FadeInTime": 0.0,
+      "FadeOutTime": 0.0,
       "Segments": [
         0,
         0,
@@ -1988,8 +2020,8 @@
     {
       "Target": "Parameter",
       "Id": "Param183",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
+      "FadeInTime": 0.0,
+      "FadeOutTime": 0.0,
       "Segments": [
         0,
         0,

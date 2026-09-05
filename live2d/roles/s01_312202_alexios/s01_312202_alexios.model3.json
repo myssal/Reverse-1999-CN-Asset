@@ -5,42 +5,7 @@
     "Moc": "s01_312202_alexios.moc3",
     "Textures": [
       "textures/312202_alexios_00.png",
-      "textures/312202_alexios_01.png",
-      "textures/312202_alexios_bloom_00.png",
-      "textures/312202_alexios_bloom_01.png",
-      "textures/debris_0001_xyq.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_00210_hs.png",
-      "textures/glow_005_gt.png",
-      "textures/glow_006_gt.png",
-      "textures/glow_011_tps.png",
-      "textures/mask_007_tps.png",
-      "textures/mask_021_hs.png",
-      "textures/mask_027_hs.png",
-      "textures/mask_029_hs.png",
-      "textures/mask_034_dzx.png",
-      "textures/mask_177c_hs.png",
-      "textures/mask_528_fy.png",
-      "textures/mask_604_hy.png",
-      "textures/noise_0007_cx.png",
-      "textures/noise_0009_xyq.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_002_tps.png",
-      "textures/noise_006_wjy.png",
-      "textures/noise_010_wjy.png",
-      "textures/noise_014_gt.png",
-      "textures/noise_016_gl16.png",
-      "textures/noise_018_wx.png",
-      "textures/noise_028_gt.png",
-      "textures/noise_032_gt.png",
-      "textures/noise_045_gt_manual.png",
-      "textures/noise_057_xz.png",
-      "textures/noise_065_gt.png",
-      "textures/noise_070_gt.png",
-      "textures/noise_174_hl.png",
-      "textures/noise_200_hs_manual.png",
-      "textures/object_005_xl01.png",
-      "textures/ring_006_cgq.png"
+      "textures/312202_alexios_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -136,12 +101,28 @@
         "File": "expressions/e_chaofeng.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chaofeng",
+        "File": "expressions/e_chaofeng.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },

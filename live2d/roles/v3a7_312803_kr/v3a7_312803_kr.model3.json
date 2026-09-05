@@ -6,8 +6,6 @@
     "Textures": [
       "textures/312803_kr_00.png",
       "textures/312803_kr_01.png",
-      "textures/312803_kr_bloom_00.png",
-      "textures/312803_kr_bloom_01.png",
       "textures/object_63121_dzx.png",
       "textures/object_632117_dzx.png"
     ],
@@ -89,19 +87,12 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
-    }
-  ]
+  "Groups": []
 }

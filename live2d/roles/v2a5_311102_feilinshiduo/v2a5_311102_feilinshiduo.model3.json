@@ -5,16 +5,7 @@
     "Moc": "v2a5_311102_feilinshiduo.moc3",
     "Textures": [
       "textures/311102_feilinshiduo_00.png",
-      "textures/311102_feilinshiduo_01.png",
-      "textures/311102_feilinshiduo_bloom_00.png",
-      "textures/311102_feilinshiduo_bloom_01.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_003_ld_c.png",
-      "textures/glow_028_gt.png",
-      "textures/mask_015_ld_c.png",
-      "textures/noise_048_xz.png",
-      "textures/object_1210_dzx.png",
-      "textures/trail_219_hs.png"
+      "textures/311102_feilinshiduo_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -122,16 +113,40 @@
     },
     "Expressions": [
       {
+        "Name": "e_bushuang",
+        "File": "expressions/e_bushuang.exp3.json"
+      },
+      {
         "Name": "e_huainian",
         "File": "expressions/e_huainian.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
+        "Name": "e_huainian",
+        "File": "expressions/e_huainian.exp3.json"
+      },
+      {
+        "Name": "e_yiwai",
+        "File": "expressions/e_yiwai.exp3.json"
       },
       {
         "Name": "e_bushuang",
         "File": "expressions/e_bushuang.exp3.json"
       },
       {
-        "Name": "e_xingfen",
-        "File": "expressions/e_xingfen.exp3.json"
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_renzhen",
@@ -142,8 +157,8 @@
         "File": "expressions/e_yiwai.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
       }
     ]
   },

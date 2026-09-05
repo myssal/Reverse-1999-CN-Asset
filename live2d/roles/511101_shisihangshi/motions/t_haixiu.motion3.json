@@ -5,20 +5,50 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
-    "CurveCount": 31,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 32,
     "TotalSegmentCount": 45,
-    "TotalPointCount": 45,
-    "UserDataCount": 1,
+    "TotalPointCount": 77,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
+      "Target": "Model",
+      "Id": "Opacity",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param94",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    {
       "Target": "Parameter",
       "Id": "PARAM_MOUTH_FORM",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.5,
-        2,
+        0,
         0.333,
         -0.5,
         0,
@@ -30,7 +60,7 @@
         0,
         0.967,
         -0.5,
-        2,
+        0,
         2,
         -0.5
       ]
@@ -38,6 +68,8 @@
     {
       "Target": "Parameter",
       "Id": "PARAM_MOUTH_OPEN_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -74,30 +106,10 @@
       ]
     },
     {
-      "Target": "Model",
-      "Id": "Opacity",
-      "Segments": [
-        0,
-        1,
-        0,
-        2,
-        1
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param94",
-      "Segments": [
-        0,
-        1,
-        0,
-        2,
-        1
-      ]
-    },
-    {
       "Target": "PartOpacity",
       "Id": "PARTS_01_BODY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -109,6 +121,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Cloak_1_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -120,6 +134,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Cloak_1_1_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -131,6 +147,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Part9",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -142,6 +160,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_L_Bow_3_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -153,6 +173,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_L_Bow_4_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -164,6 +186,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_L_Bow_5_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -175,6 +199,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_R_4_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -186,6 +212,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_L_Bow_2_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -197,6 +225,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_R_piaodai_2_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -208,6 +238,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Leg_R_piaodai_1_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -219,6 +251,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_NECK",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -230,6 +264,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_HAIR_BACK_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -241,6 +277,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Hair_M_1_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -252,6 +290,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Hair_B_2_2_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -263,6 +303,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Hair_B_2_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -274,6 +316,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Hair_B_4_Skinning",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -285,6 +329,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_HAIR_SIDE_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -296,6 +342,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_HAIR_FRONT_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -307,6 +355,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_EAR_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -318,6 +368,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_NOSE_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -329,6 +381,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_MOUTH_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -340,6 +394,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_BROW_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -351,6 +407,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_EYE_BALL_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -362,6 +420,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_EYE_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -373,6 +433,8 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_FACE_001",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -384,6 +446,21 @@
     {
       "Target": "PartOpacity",
       "Id": "PARTS_01_FROZEN",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartSketch0",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -393,10 +470,5 @@
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

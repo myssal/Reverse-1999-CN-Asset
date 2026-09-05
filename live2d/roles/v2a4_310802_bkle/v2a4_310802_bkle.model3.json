@@ -5,26 +5,9 @@
     "Moc": "v2a4_310802_bkle.moc3",
     "Textures": [
       "textures/310802_bkle_00.png",
-      "textures/310802_bkle_01.png",
-      "textures/310802_bkle_bloom_00.png",
-      "textures/310802_bkle_bloom_01.png",
-      "textures/glow_00071_hs.png",
-      "textures/glow_006_gt.png",
-      "textures/mask_005_cx.png",
-      "textures/mask_015_hl.png",
-      "textures/mask_025_zy.png",
-      "textures/mask_028_hs.png",
-      "textures/mask_1127_dzx.png",
-      "textures/noise_027_xz.png",
-      "textures/noise_060_gt.png",
-      "textures/noise_068_hs.png",
-      "textures/noise_160_hs.png",
-      "textures/object_1127_dzx.png",
-      "textures/object_679_hl.png",
-      "textures/ray_0001_xyq.png",
-      "textures/trail_012_xz.png",
-      "textures/trail_022_zy.png"
+      "textures/310802_bkle_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_chayao": [
@@ -144,6 +127,34 @@
       ]
     },
     "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_chenzui",
+        "File": "expressions/e_chenzui.exp3.json"
+      },
+      {
+        "Name": "e_jinzhang",
+        "File": "expressions/e_jinzhang.exp3.json"
+      },
       {
         "Name": "e_xingfen",
         "File": "expressions/e_xingfen.exp3.json"

@@ -5,10 +5,9 @@
     "Moc": "v2a1_308103_yisuoerde.moc3",
     "Textures": [
       "textures/308103_yisuoerde_00.png",
-      "textures/308103_yisuoerde_01.png",
-      "textures/308103_yisuoerde_bloom_00.png",
-      "textures/308103_yisuoerde_bloom_01.png"
+      "textures/308103_yisuoerde_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_dajiepai": [
@@ -191,6 +190,46 @@
         "File": "expressions/e_kaixin.exp3.json"
       },
       {
+        "Name": "e_jingkong1",
+        "File": "expressions/e_jingkong1.exp3.json"
+      },
+      {
+        "Name": "e_jingkong2",
+        "File": "expressions/e_jingkong2.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_chouchang",
+        "File": "expressions/e_chouchang.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_liulei",
+        "File": "expressions/e_liulei.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_chenzui",
+        "File": "expressions/e_chenzui.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
@@ -212,7 +251,6 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY2",
         "ParamMouthOpenY"
       ]
     }

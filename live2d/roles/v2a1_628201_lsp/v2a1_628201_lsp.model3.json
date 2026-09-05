@@ -6,6 +6,7 @@
     "Textures": [
       "textures/628201_lsp_00.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_diantou": [
@@ -90,6 +91,30 @@
       ]
     },
     "Expressions": [
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
+      },
+      {
+        "Name": "e_yuyue",
+        "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_chiyi",
+        "File": "expressions/e_chiyi.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"

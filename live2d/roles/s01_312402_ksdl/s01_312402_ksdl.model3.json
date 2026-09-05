@@ -6,29 +6,12 @@
     "Textures": [
       "textures/312402_ksdl_00.png",
       "textures/312402_ksdl_01.png",
-      "textures/312402_ksdl_bloom_00.png",
-      "textures/312402_ksdl_bloom_01.png",
-      "textures/charactermirrornoise_effect.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_006_wx.png",
-      "textures/glow_028_gt.png",
-      "textures/glow_028_hs.png",
-      "textures/mask_021_cx.png",
-      "textures/mask_167_hs.png",
-      "textures/mask_172c_hs.png",
-      "textures/mask_233_hs.png",
-      "textures/noise_023_wx.png",
-      "textures/noise_057_gt.png",
-      "textures/noise_059_gt.png",
-      "textures/noise_185_hs.png",
       "textures/object_6241_dzx.png",
       "textures/object_6242_dzx.png",
       "textures/object_6243_dzx.png",
       "textures/object_6244_dzx.png",
       "textures/object_6245_dzx.png",
-      "textures/object_6246_dzx.png",
-      "textures/smoke_054_hs.png",
-      "textures/trail_022_wx.png"
+      "textures/object_6246_dzx.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -157,12 +140,36 @@
         "File": "expressions/e_biyan.exp3.json"
       },
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       },
       {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },
@@ -171,8 +178,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen2"
+        "ParamEyeROpen2",
+        "ParamEyeLOpen"
       ]
     },
     {

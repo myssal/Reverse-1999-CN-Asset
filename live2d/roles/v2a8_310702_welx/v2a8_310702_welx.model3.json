@@ -5,28 +5,7 @@
     "Moc": "v2a8_310702_welx.moc3",
     "Textures": [
       "textures/310702_welx_00.png",
-      "textures/310702_welx_01.png",
-      "textures/310702_welx_bloom_00.png",
-      "textures/310702_welx_bloom_01.png",
-      "textures/bg_001_gt.png",
-      "textures/glow_001_xz.png",
-      "textures/glow_014_wx.png",
-      "textures/glow_015_xz.png",
-      "textures/lighting_007_zy.png",
-      "textures/lighting_008_zy.png",
-      "textures/mask_030_hs.png",
-      "textures/mask_064_hs.png",
-      "textures/mask_096_02hs.png",
-      "textures/mask_138_hs_clp.png",
-      "textures/mask_203_ch_kk.png",
-      "textures/noise_007_xz.png",
-      "textures/noise_008_tps.png",
-      "textures/noise_102_cx.png",
-      "textures/noise_163_hs.png",
-      "textures/noise_182_hs.png",
-      "textures/noise_201_hs.png",
-      "textures/noise_805_fy.png",
-      "textures/v2a8_scene_wuerlixi_c.png"
+      "textures/310702_welx_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -94,12 +73,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_dui",
@@ -110,12 +85,40 @@
         "File": "expressions/e_cuo.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_cuo",
+        "File": "expressions/e_cuo.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_dui",
+        "File": "expressions/e_dui.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       }
     ]
   },

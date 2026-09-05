@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "v3a8_314502_hsy.moc3",
     "Textures": [
-      "textures/314502_hsy_00_bloom.png",
       "textures/314502_hsy_00.png",
-      "textures/314502_hsy_01_bloom.png",
       "textures/314502_hsy_01.png",
       "textures/noise_007_dr.png",
       "textures/noise_017_sjy.png",
@@ -167,6 +165,38 @@
     },
     "Expressions": [
       {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_muyi",
+        "File": "expressions/e_muyi.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
         "Name": "e_muyi",
         "File": "expressions/e_muyi.exp3.json"
       },
@@ -175,20 +205,12 @@
         "File": "expressions/e_yihuo.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
       },
       {
         "Name": "e_weixiao",
         "File": "expressions/e_weixiao.exp3.json"
-      },
-      {
-        "Name": "e_biyan",
-        "File": "expressions/e_biyan.exp3.json"
-      },
-      {
-        "Name": "e_renzhen",
-        "File": "expressions/e_renzhen.exp3.json"
       }
     ]
   },

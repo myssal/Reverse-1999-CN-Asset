@@ -1,34 +1,56 @@
 {
   "Version": 3,
+  "Name": "v1a4_308601_luxi",
   "FileReferences": {
     "Moc": "v1a4_308601_luxi.moc3",
     "Textures": [
       "textures/308601_luxi_00.png",
       "textures/308601_luxi_01.png"
     ],
+    "DisplayInfo": "v1a4_308601_luxi.cdi3.json",
     "Physics": null,
     "Motions": {
-      "": [
-        {
-          "File": "motions/b_idle.motion3.json"
-        },
-        {
-          "File": "motions/b_yaotou.motion3.json"
-        },
+      "b_baoxiong": [
         {
           "File": "motions/b_baoxiong.motion3.json"
-        },
-        {
-          "File": "motions/b_taitou.motion3.json"
-        },
-        {
-          "File": "motions/b_sikao.motion3.json"
-        },
+        }
+      ],
+      "b_diantou": [
         {
           "File": "motions/b_diantou.motion3.json"
         }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_sikao": [
+        {
+          "File": "motions/b_sikao.motion3.json"
+        }
+      ],
+      "b_taitou": [
+        {
+          "File": "motions/b_taitou.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
       ]
-    }
+    },
+    "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      }
+    ]
   },
   "Groups": []
 }

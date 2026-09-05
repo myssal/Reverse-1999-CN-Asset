@@ -5,45 +5,7 @@
     "Moc": "v3a0_312802_kr.moc3",
     "Textures": [
       "textures/312802_kr_00.png",
-      "textures/312802_kr_01.png",
-      "textures/312802_kr_bloom_00.png",
-      "textures/312802_kr_bloom_01.png",
-      "textures/glow_003_hs_manual.png",
-      "textures/glow_010_ch.png",
-      "textures/glow_029_wx.png",
-      "textures/ma_001_gl16.png",
-      "textures/mask_006_wx.png",
-      "textures/mask_078_hs.png",
-      "textures/mask_126_hs.png",
-      "textures/mask_148_hs.png",
-      "textures/mask_241_hs.png",
-      "textures/mask_604_dzx.png",
-      "textures/mask_v3a0kr_uitop_wwc.png",
-      "textures/noise_0007_cx.png",
-      "textures/noise_0007_xyq.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_008_dzx.png",
-      "textures/noise_028_gt.png",
-      "textures/noise_052_wx.png",
-      "textures/noise_065_gt.png",
-      "textures/noise_068_wx.png",
-      "textures/noise_114_hl.png",
-      "textures/noise_123_hl.png",
-      "textures/noise_133_hs.png",
-      "textures/noise_150_hl.png",
-      "textures/noise_150_hs.png",
-      "textures/noise_182_hs.png",
-      "textures/noise_185_hs.png",
-      "textures/smoke_025_wx.png",
-      "textures/smoke_028_hl.png",
-      "textures/smoke_055_hs.png",
-      "textures/trail_009_gl16.png",
-      "textures/trail_013c_hs.png",
-      "textures/trail_024_ybl.png",
-      "textures/trail_030_ch.png",
-      "textures/trail_032_zy.png",
-      "textures/trail_044_yjl.png",
-      "textures/trail_181_hs.png"
+      "textures/312802_kr_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -103,6 +65,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -113,11 +79,6 @@
       "Ids": [
         "ParamEyeLOpen"
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
     }
   ]
 }

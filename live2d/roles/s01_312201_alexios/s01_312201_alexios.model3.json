@@ -4,8 +4,7 @@
   "FileReferences": {
     "Moc": "s01_312201_alexios.moc3",
     "Textures": [
-      "textures/312201_alexios_00.png",
-      "textures/312201_alexios_bloom_00.png"
+      "textures/312201_alexios_00.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -88,8 +87,28 @@
     },
     "Expressions": [
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chaofeng",
+        "File": "expressions/e_chaofeng.exp3.json"
       },
       {
         "Name": "e_chaofeng",
@@ -98,10 +117,6 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },

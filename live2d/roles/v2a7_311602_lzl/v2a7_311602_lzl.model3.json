@@ -6,28 +6,7 @@
     "Textures": [
       "textures/311602_lzl_00.png",
       "textures/311602_lzl_01.png",
-      "textures/311602_lzl_bloom_00.png",
-      "textures/311602_lzl_bloom_01.png",
-      "textures/debris_041_hs.png",
-      "textures/glow_021_wx.png",
-      "textures/mask_017_hs.png",
-      "textures/mask_139_hs.png",
-      "textures/mask_148_hs.png",
-      "textures/mask_223_hs.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_006_ycx02.png",
-      "textures/noise_016_gl16.png",
-      "textures/noise_027_xz.png",
-      "textures/noise_032_gt.png",
-      "textures/noise_033_xz.png",
-      "textures/noise_0368_dzx.png",
-      "textures/noise_0369_dzx.png",
-      "textures/noise_046_xz.png",
-      "textures/noise_049_xz.png",
-      "textures/noise_050_xz.png",
-      "textures/object_0168_xz.png",
-      "textures/object_0368_dzx.png",
-      "textures/trail_027_hl.png"
+      "textures/object_0368_dzx.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -145,12 +124,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
       },
       {
         "Name": "e_chijing",
@@ -161,12 +136,40 @@
         "File": "expressions/e_kaixin.exp3.json"
       },
       {
-        "Name": "e_sikao",
-        "File": "expressions/e_sikao.exp3.json"
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_renzhen",
         "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       }
     ]
   },

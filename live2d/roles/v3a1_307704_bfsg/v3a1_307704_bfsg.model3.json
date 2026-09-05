@@ -6,15 +6,6 @@
     "Textures": [
       "textures/307704_bfsg_00.png",
       "textures/307704_bfsg_01.png",
-      "textures/307704_bfsg_bloom_00.png",
-      "textures/307704_bfsg_bloom_01.png",
-      "textures/fire_002_gt.png",
-      "textures/fire_529_ch_kk.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_006_gt.png",
-      "textures/mask_006_wx.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_002_lw.png",
       "textures/object_7251_dzx.png",
       "textures/object_7252_dzx.png"
     ],
@@ -159,20 +150,56 @@
     },
     "Expressions": [
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_bizui",
         "File": "expressions/e_bizui.exp3.json"
       },
       {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_bizui",
+        "File": "expressions/e_bizui.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chensi",
+        "File": "expressions/e_chensi.exp3.json"
+      },
+      {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
       },
       {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_chensi",
@@ -187,12 +214,12 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       }
     ]
   },

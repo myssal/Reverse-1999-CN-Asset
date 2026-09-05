@@ -5,16 +5,20 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 4,
-    "TotalSegmentCount": 29,
-    "TotalPointCount": 39,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 28,
+    "TotalPointCount": 42,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.24,
@@ -71,6 +75,8 @@
     {
       "Target": "Parameter",
       "Id": "Param5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         12,
@@ -98,16 +104,16 @@
         0,
         1.5,
         15,
-        2,
+        0,
         2.033,
         15,
-        2,
+        0,
         2.533,
         15,
         0,
         2.833,
         21.6,
-        2,
+        0,
         3.467,
         21.6,
         1,
@@ -129,6 +135,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramkaixinshengqi",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         30,
@@ -140,6 +148,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramnnaguohaiciu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -149,10 +159,5 @@
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

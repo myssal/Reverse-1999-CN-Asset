@@ -5,16 +5,33 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 0.4,
+    "FadeOutTime": 0.4,
     "CurveCount": 6,
-    "TotalSegmentCount": 28,
-    "TotalPointCount": 28,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 27,
+    "TotalPointCount": 33,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        60,
+        0,
+        4,
+        60
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -70,47 +87,9 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Param17",
-      "Segments": [
-        0,
-        0,
-        2,
-        0.4,
-        0,
-        0,
-        0.667,
-        3.156,
-        2,
-        1.833,
-        3.156,
-        0,
-        2.2,
-        19.919,
-        2,
-        2.8,
-        19.919,
-        0,
-        3.333,
-        0,
-        2,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "Segments": [
-        0,
-        60,
-        0,
-        4,
-        60
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "Paramganga",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -30,
@@ -122,6 +101,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramnnaguo",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -133,6 +114,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramchijing",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -140,12 +123,38 @@
         4,
         0
       ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param17",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.4,
+        0,
+        0,
+        0.667,
+        3.156,
+        0,
+        1.833,
+        3.156,
+        0,
+        2.2,
+        19.919,
+        0,
+        2.8,
+        19.919,
+        0,
+        3.333,
+        0,
+        0,
+        4,
+        0
+      ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

@@ -5,9 +5,7 @@
     "Moc": "v2a8_311501_jjsg.moc3",
     "Textures": [
       "textures/311501_jjsg_00.png",
-      "textures/311501_jjsg_01.png",
-      "textures/311501_jjsg_bloom_00.png",
-      "textures/311501_jjsg_bloom_01.png"
+      "textures/311501_jjsg_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -150,6 +148,14 @@
     },
     "Expressions": [
       {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
       },
@@ -158,12 +164,20 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
       }
     ]
   },
@@ -172,9 +186,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
+        "ParamEyeROpen2",
         "ParamEyeROpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {

@@ -5,16 +5,7 @@
     "Moc": "v3a2_313401_ble.moc3",
     "Textures": [
       "textures/313401_ble_00.png",
-      "textures/313401_ble_01.png",
-      "textures/313401_ble_bloom_00.png",
-      "textures/313401_ble_bloom_01.png",
-      "textures/glow_00082.png",
-      "textures/glow_00174_hs.png",
-      "textures/glow_002_wx.png",
-      "textures/glow_009_cgq.png",
-      "textures/object_03089_xz.png",
-      "textures/object_03097_xz.png",
-      "textures/trail_027_hl.png"
+      "textures/313401_ble_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -212,8 +203,20 @@
     },
     "Expressions": [
       {
+        "Name": "e_cuoe",
+        "File": "expressions/e_cuoe.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
       },
       {
         "Name": "e_chijing",
@@ -224,20 +227,36 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
+        "Name": "e_huanghu",
+        "File": "expressions/e_huanghu.exp3.json"
+      },
+      {
         "Name": "e_weixiao",
         "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_huanghu",
+        "File": "expressions/e_huanghu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_cuoe",
         "File": "expressions/e_cuoe.exp3.json"
       },
       {
-        "Name": "e_xingfen",
-        "File": "expressions/e_xingfen.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_huanghu",
-        "File": "expressions/e_huanghu.exp3.json"
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
       }
     ]
   },

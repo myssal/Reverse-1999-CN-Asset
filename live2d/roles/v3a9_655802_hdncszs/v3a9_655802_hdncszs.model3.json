@@ -246,10 +246,6 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
@@ -272,6 +268,10 @@
       {
         "Name": "e_daxiao",
         "File": "expressions/e_daxiao.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_xingfen",
@@ -307,8 +307,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

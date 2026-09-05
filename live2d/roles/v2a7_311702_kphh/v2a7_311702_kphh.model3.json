@@ -4,54 +4,7 @@
   "FileReferences": {
     "Moc": "v2a7_311702_kphh.moc3",
     "Textures": [
-      "textures/311702_kphh_bloom.png",
-      "textures/311702_kphh.png",
-      "textures/fire_022_cx.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_001_zy_1.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_003_hs_manual.png",
-      "textures/glow_041_lth.png",
-      "textures/mask_007_tps.png",
-      "textures/mask_010_zy.png",
-      "textures/mask_010b_hs.png",
-      "textures/mask_011_hs.png",
-      "textures/mask_078_hs.png",
-      "textures/mask_094_hs.png",
-      "textures/mask_134_hs.png",
-      "textures/mask_135c_hs.png",
-      "textures/mask_138_hs_clp.png",
-      "textures/mask_139_hs.png",
-      "textures/noise_002_lw.png",
-      "textures/noise_005_dy.png",
-      "textures/noise_007_ycx.png",
-      "textures/noise_009_wx.png",
-      "textures/noise_009_xz.png",
-      "textures/noise_015_hs.png",
-      "textures/noise_019_xz.png",
-      "textures/noise_029_gt.png",
-      "textures/noise_030_dzx.png",
-      "textures/noise_033_gt.png",
-      "textures/noise_047_wx.png",
-      "textures/noise_057_gt.png",
-      "textures/noise_060_gt.png",
-      "textures/noise_062_gt.png",
-      "textures/noise_067_hy.png",
-      "textures/noise_114_hl.png",
-      "textures/noise_116_hy.png",
-      "textures/noise_185_hs.png",
-      "textures/noise_200_hs_manual.png",
-      "textures/noise_kphh_001_hy.png",
-      "textures/object_001_ybcll.png",
-      "textures/object_0371_dzx.png",
-      "textures/object_0372_dzx.png",
-      "textures/ray_002_dzx.png",
-      "textures/smoke_520_fy.png",
-      "textures/trail_004_hy.png",
-      "textures/trail_013_hy.png",
-      "textures/trail_018_ld_c.png",
-      "textures/trail_038_cgq.png",
-      "textures/trail_042_hs_c.png"
+      "textures/311702_kphh.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -164,14 +117,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
-        "Name": "e_zhaoji",
-        "File": "expressions/e_zhaoji.exp3.json"
-      },
-      {
         "Name": "e_yihuo",
         "File": "expressions/e_yihuo.exp3.json"
       },
@@ -182,6 +127,38 @@
       {
         "Name": "e_renzhen",
         "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_zhaoji",
+        "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_zhaoji",
+        "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
         "Name": "e_weixiao",

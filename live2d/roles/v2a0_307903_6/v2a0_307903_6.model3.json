@@ -4,9 +4,9 @@
   "FileReferences": {
     "Moc": "v2a0_307903_6.moc3",
     "Textures": [
-      "textures/307903_6_bloom.png",
       "textures/307903_6.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_diantou": [
@@ -159,6 +159,38 @@
       {
         "Name": "e_kuxiao",
         "File": "expressions/e_kuxiao.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kuxiao",
+        "File": "expressions/e_kuxiao.exp3.json"
+      },
+      {
+        "Name": "e_gaohu",
+        "File": "expressions/e_gaohu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       },
       {
         "Name": "e_biyan",

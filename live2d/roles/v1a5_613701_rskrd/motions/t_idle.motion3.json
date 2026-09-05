@@ -5,16 +5,72 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 7,
-    "TotalSegmentCount": 40,
-    "TotalPointCount": 78,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 39,
+    "TotalPointCount": 84,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.567,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.567,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.567,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.567,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -39,7 +95,7 @@
         0.218,
         0.567,
         0,
-        2,
+        0,
         0.633,
         0,
         1,
@@ -56,7 +112,7 @@
         0.247,
         1.1,
         0,
-        2,
+        0,
         1.133,
         0,
         1,
@@ -73,7 +129,7 @@
         0.299,
         1.733,
         0,
-        2,
+        0,
         1.8,
         0,
         1,
@@ -90,7 +146,7 @@
         0.187,
         2.533,
         0,
-        2,
+        0,
         2.567,
         0,
         1,
@@ -107,7 +163,7 @@
         0.173,
         3.3,
         0,
-        2,
+        0,
         3.333,
         0,
         1,
@@ -124,7 +180,7 @@
         0.176,
         3.8,
         0,
-        2,
+        0,
         3.833,
         0,
         1,
@@ -141,7 +197,7 @@
         0.3,
         4.533,
         0,
-        2,
+        0,
         4.567,
         0
       ]
@@ -149,10 +205,12 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthA",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
-        2,
+        0,
         1.033,
         0,
         1,
@@ -169,10 +227,10 @@
         10,
         1.433,
         10,
-        2,
+        0,
         1.733,
         10,
-        2,
+        0,
         1.967,
         10,
         1,
@@ -189,13 +247,13 @@
         -4,
         3,
         -4,
-        2,
+        0,
         3.233,
         -4,
         0,
         3.333,
         0,
-        2,
+        0,
         3.833,
         0,
         0,
@@ -208,51 +266,9 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "Segments": [
-        0,
-        0,
-        0,
-        4.567,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm2",
-      "Segments": [
-        0,
-        0,
-        0,
-        4.567,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm3",
-      "Segments": [
-        0,
-        0,
-        0,
-        4.567,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm4",
-      "Segments": [
-        0,
-        0,
-        0,
-        4.567,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "ParamMouthO",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -262,10 +278,5 @@
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

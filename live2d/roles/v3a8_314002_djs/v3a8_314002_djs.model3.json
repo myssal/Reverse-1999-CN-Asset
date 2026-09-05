@@ -4,21 +4,8 @@
   "FileReferences": {
     "Moc": "v3a8_314002_djs.moc3",
     "Textures": [
-      "textures/314002_djs_00_bloom.png",
       "textures/314002_djs_00.png",
-      "textures/314002_djs_01_bloom.png",
       "textures/314002_djs_01.png",
-      "textures/glow_005_sjy.png",
-      "textures/glow_022_zn.png",
-      "textures/glow_023_xz.png",
-      "textures/mask_040_hy.png",
-      "textures/object_03207_xz.png",
-      "textures/object_03208_xz.png",
-      "textures/object_03209_xz.png",
-      "textures/object_03210_xz.png",
-      "textures/object_03211_xz.png",
-      "textures/object_03216_xz.png",
-      "textures/object_642901_dzx.png",
       "textures/trail_434_hs.png"
     ],
     "DisplayInfo": null,
@@ -177,8 +164,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_renzhen",
-        "File": "expressions/e_renzhen.exp3.json"
+        "Name": "e_jiaoxia",
+        "File": "expressions/e_jiaoxia.exp3.json"
       },
       {
         "Name": "e_kaixin",
@@ -187,6 +174,10 @@
       {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
       },
       {
         "Name": "e_chijing",
@@ -199,6 +190,26 @@
       {
         "Name": "e_jiaoxia",
         "File": "expressions/e_jiaoxia.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       }
     ]
   },
@@ -214,8 +225,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

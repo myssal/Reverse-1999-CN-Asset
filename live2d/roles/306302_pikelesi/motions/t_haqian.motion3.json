@@ -5,16 +5,20 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 15,
-    "TotalSegmentCount": 40,
-    "TotalPointCount": 50,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 48,
+    "TotalPointCount": 73,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
       "Id": "Param53",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -38,7 +42,7 @@
         0.217,
         2.167,
         0,
-        2,
+        0,
         4.1,
         0
       ]
@@ -46,6 +50,8 @@
     {
       "Target": "Parameter",
       "Id": "Param54",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -61,7 +67,7 @@
         0,
         1.667,
         0,
-        2,
+        0,
         4.1,
         0
       ]
@@ -69,6 +75,8 @@
     {
       "Target": "Parameter",
       "Id": "Param55",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -96,7 +104,7 @@
         0,
         2,
         0,
-        2,
+        0,
         4.1,
         0
       ]
@@ -104,6 +112,8 @@
     {
       "Target": "Parameter",
       "Id": "Param56",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -119,7 +129,7 @@
         0,
         2,
         0,
-        2,
+        0,
         4.1,
         0
       ]
@@ -127,6 +137,8 @@
     {
       "Target": "Parameter",
       "Id": "Param57",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -142,7 +154,7 @@
         0,
         3.6,
         0,
-        2,
+        0,
         4.1,
         0
       ]
@@ -150,6 +162,8 @@
     {
       "Target": "Parameter",
       "Id": "Param58",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -165,7 +179,7 @@
         0,
         2.5,
         0,
-        2,
+        0,
         4.1,
         0
       ]
@@ -173,8 +187,13 @@
     {
       "Target": "Parameter",
       "Id": "Param25",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -184,8 +203,13 @@
     {
       "Target": "Parameter",
       "Id": "Param26",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -195,8 +219,13 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -206,8 +235,13 @@
     {
       "Target": "Parameter",
       "Id": "Paramtushetou",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -217,8 +251,13 @@
     {
       "Target": "Parameter",
       "Id": "Paramziya",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        -30,
+        0,
+        4.067,
         -30,
         0,
         4.1,
@@ -228,8 +267,13 @@
     {
       "Target": "Parameter",
       "Id": "Paramkaixin",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -239,8 +283,13 @@
     {
       "Target": "Parameter",
       "Id": "Param12",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -250,8 +299,13 @@
     {
       "Target": "Parameter",
       "Id": "Paramzuichan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -261,8 +315,13 @@
     {
       "Target": "Parameter",
       "Id": "Paramzuichan2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
+        0,
+        0,
+        4.067,
         0,
         0,
         4.1,
@@ -270,10 +329,5 @@
       ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

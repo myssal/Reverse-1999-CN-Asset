@@ -5,9 +5,7 @@
     "Moc": "v3a3_309201_yge.moc3",
     "Textures": [
       "textures/309201_yge_00.png",
-      "textures/309201_yge_01.png",
-      "textures/309201_yge_bloom_00.png",
-      "textures/309201_yge_bloom_01.png"
+      "textures/309201_yge_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -120,8 +118,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_shiwang",
-        "File": "expressions/e_shiwang.exp3.json"
+        "Name": "e_wenhe",
+        "File": "expressions/e_wenhe.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -132,12 +130,20 @@
         "File": "expressions/e_shengqi.exp3.json"
       },
       {
-        "Name": "e_biyan",
-        "File": "expressions/e_biyan.exp3.json"
-      },
-      {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
       },
       {
         "Name": "e_wenhe",
@@ -146,6 +152,26 @@
       {
         "Name": "e_weixiao",
         "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
       }
     ]
   },
@@ -154,8 +180,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen2"
+        "ParamEyeROpen2",
+        "ParamEyeLOpen"
       ]
     },
     {

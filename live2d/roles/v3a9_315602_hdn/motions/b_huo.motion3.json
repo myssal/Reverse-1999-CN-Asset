@@ -7,91 +7,13 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 0.5,
     "FadeOutTime": 0.5,
-    "CurveCount": 182,
-    "TotalSegmentCount": 819,
-    "TotalPointCount": 1475,
+    "CurveCount": 165,
+    "TotalSegmentCount": 801,
+    "TotalPointCount": 1440,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
-    {
-      "Target": "Parameter",
-      "Id": "Param54",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param59",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param73",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param74",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param75",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param88",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
     {
       "Target": "Parameter",
       "Id": "Param11",
@@ -204,9 +126,6 @@
         2,
         4.367,
         2,
-        2,
-        5.217,
-        0,
         2,
         6.983,
         0
@@ -876,71 +795,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamMeiYan01",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Paramchijingnanguo",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMeiYan03",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMeiYan04",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMeiYan05",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "ParamEyeBallX",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -952,39 +806,39 @@
         0,
         0,
         0.85,
-        0.5,
+        0.2,
         0,
         1.85,
-        0.5,
+        0.2,
         0,
         1.967,
-        0.5,
+        0.2,
         0,
         2.117,
-        0.336,
+        0.036,
         0,
         3.783,
-        0.336,
+        0.036,
         0,
         3.9,
-        0.105,
+        -0.195,
         0,
         4.083,
-        0.105,
+        -0.195,
         1,
         4.15,
-        0.105,
+        -0.195,
         4.216,
-        0.099,
+        -0.201,
         4.283,
-        0.11,
+        -0.19,
         1,
         4.85,
-        0.203,
+        -0.097,
         5.416,
-        0.3,
+        0,
         5.983,
-        0.3,
+        0,
         0,
         6.417,
         0,
@@ -1006,123 +860,45 @@
         0,
         0,
         0.85,
-        -1,
+        -0.397,
         0,
         1.85,
-        -1,
+        -0.397,
         0,
         1.967,
-        -1,
+        -0.397,
         0,
         2.117,
-        -0.954,
+        -0.374,
         0,
         3.783,
-        -0.954,
+        -0.374,
         0,
         3.9,
-        -0.873,
+        -0.334,
         0,
         4.083,
-        -0.873,
+        -0.334,
         1,
         4.15,
-        -0.873,
+        -0.334,
         4.216,
-        -0.701,
+        -0.244,
         4.283,
-        -0.68,
+        -0.238,
         1,
         4.85,
-        -0.504,
+        -0.187,
         5.416,
-        -0.386,
+        -0.155,
         5.983,
-        -0.2,
+        -0.099,
         1,
         6.128,
-        -0.153,
+        -0.085,
         6.272,
         0,
         6.417,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamEyeBallY2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm3",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthOpenY",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        6.983,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthOpenY2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
         0,
         0,
         6.983,

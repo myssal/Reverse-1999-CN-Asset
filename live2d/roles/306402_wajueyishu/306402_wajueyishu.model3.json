@@ -4,16 +4,10 @@
   "FileReferences": {
     "Moc": "306402_wajueyishu.moc3",
     "Textures": [
-      "textures/306402_wajueyishu_bloom.png",
       "textures/306402_wajueyishu.png",
-      "textures/glow_00174_hs.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_00210_hs.png",
-      "textures/glow_024_hl.png",
-      "textures/object_258_hl.png",
       "textures/smoke_058_hl.png"
     ],
-    "DisplayInfo": null,
+    "DisplayInfo": "306402_wajueyishu.cdi3.json",
     "Physics": null,
     "Motions": {
       "b_diantou": [
@@ -159,16 +153,20 @@
     },
     "Expressions": [
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
-      },
-      {
         "Name": "e_zixin",
         "File": "expressions/e_zixin.exp3.json"
       },
       {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       },
       {
         "Name": "e_nanguo",
@@ -179,8 +177,28 @@
         "File": "expressions/e_kaixin.exp3.json"
       },
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_zixin",
+        "File": "expressions/e_zixin.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },
@@ -189,14 +207,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
     }
   ]
 }

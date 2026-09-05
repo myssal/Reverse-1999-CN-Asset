@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "v3a8_313903_llzhd.moc3",
     "Textures": [
-      "textures/313903_llzhd_00_bloom.png",
       "textures/313903_llzhd_00.png",
-      "textures/313903_llzhd_01_bloom.png",
       "textures/313903_llzhd_01.png",
       "textures/glow_052_wyq.png",
       "textures/noise_056_zn.png",
@@ -188,12 +186,56 @@
     },
     "Expressions": [
       {
+        "Name": "e_biaoyan",
+        "File": "expressions/e_biaoyan.exp3.json"
+      },
+      {
+        "Name": "e_yuyue",
+        "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_shayi",
+        "File": "expressions/e_shayi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_jiaxiao",
+        "File": "expressions/e_jiaxiao.exp3.json"
+      },
+      {
+        "Name": "e_buyue",
+        "File": "expressions/e_buyue.exp3.json"
+      },
+      {
+        "Name": "e_xuruo",
+        "File": "expressions/e_xuruo.exp3.json"
+      },
+      {
+        "Name": "e_buyue",
+        "File": "expressions/e_buyue.exp3.json"
+      },
+      {
         "Name": "e_jiaxiao",
         "File": "expressions/e_jiaxiao.exp3.json"
       },
       {
         "Name": "e_yuyue",
         "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_xuruo",
+        "File": "expressions/e_xuruo.exp3.json"
+      },
+      {
+        "Name": "e_biaoyan",
+        "File": "expressions/e_biaoyan.exp3.json"
       },
       {
         "Name": "e_chijing",
@@ -206,18 +248,6 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_xuruo",
-        "File": "expressions/e_xuruo.exp3.json"
-      },
-      {
-        "Name": "e_buyue",
-        "File": "expressions/e_buyue.exp3.json"
-      },
-      {
-        "Name": "e_biaoyan",
-        "File": "expressions/e_biaoyan.exp3.json"
       }
     ]
   },
@@ -226,8 +256,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

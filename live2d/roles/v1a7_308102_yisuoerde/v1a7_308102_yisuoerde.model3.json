@@ -5,19 +5,9 @@
     "Moc": "v1a7_308102_yisuoerde.moc3",
     "Textures": [
       "textures/308102_yisuoerde_00.png",
-      "textures/308102_yisuoerde_01.png",
-      "textures/308102_yisuoerde_bloom_00.png",
-      "textures/308102_yisuoerde_bloom_01.png",
-      "textures/cloud_noise_e_1.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_002_wx.png",
-      "textures/mask_126_hs.png",
-      "textures/noise_0007_xyq.png",
-      "textures/noise_029_gt.png",
-      "textures/noise_051_wx.png",
-      "textures/noise_123_hl.png",
-      "textures/noise_13_ld_manual.png"
+      "textures/308102_yisuoerde_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_diantou": [
@@ -153,6 +143,38 @@
     },
     "Expressions": [
       {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_liulei",
+        "File": "expressions/e_liulei.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_jingkong2",
+        "File": "expressions/e_jingkong2.exp3.json"
+      },
+      {
+        "Name": "e_jingkong1",
+        "File": "expressions/e_jingkong1.exp3.json"
+      },
+      {
         "Name": "e_jingkong2",
         "File": "expressions/e_jingkong2.exp3.json"
       },
@@ -191,8 +213,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeLOpen2"
+        "ParamEyeLOpen2",
+        "ParamEyeLOpen"
       ]
     },
     {

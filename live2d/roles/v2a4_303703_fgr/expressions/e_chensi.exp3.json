@@ -1,37 +1,37 @@
 {
   "Type": "Live2D Expression",
-  "FadeInTime": 0.6,
-  "FadeOutTime": 0.6,
+  "FadeInTime": 0.5,
+  "FadeOutTime": 0.4,
   "Parameters": [
     {
       "Id": "ParamEyeLOpen",
       "Value": 0.0,
-      "Blend": 1
+      "Blend": "Multiply"
     },
     {
       "Id": "ParamEyeLSmile",
       "Value": 0.0,
-      "Blend": 1
+      "Blend": "Multiply"
     },
     {
       "Id": "Param",
       "Value": 0.0,
-      "Blend": 1
+      "Blend": "Multiply"
     },
     {
       "Id": "Param27",
       "Value": 1.0,
-      "Blend": 1
+      "Blend": "Multiply"
     },
     {
       "Id": "Param43",
       "Value": 0.0,
-      "Blend": 1
+      "Blend": "Multiply"
     },
     {
       "Id": "Param2",
       "Value": 0.0,
-      "Blend": 1
+      "Blend": "Multiply"
     }
   ]
 }

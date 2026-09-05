@@ -6,37 +6,7 @@
     "Textures": [
       "textures/311403_xgj_00.png",
       "textures/311403_xgj_01.png",
-      "textures/311403_xgj_bloom_00.png",
-      "textures/311403_xgj_bloom_01.png",
-      "textures/fazhen_018_zy_1.png",
-      "textures/fazhen_018_zy_2.png",
-      "textures/fazhen_018_zy_3.png",
-      "textures/glow_00035.png",
-      "textures/glow_001_xz.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_00213_hs.png",
-      "textures/glow_002227_hs.png",
-      "textures/glow_003_dy.png",
-      "textures/glow_012_wjy.png",
-      "textures/glow_501_fy.png",
-      "textures/mask_018_02zy.png",
-      "textures/mask_018_zy.png",
-      "textures/mask_030_hs.png",
-      "textures/mask_040_hy.png",
-      "textures/mask_075_hs.png",
-      "textures/mask_177d_hs.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_003_fy0.png",
-      "textures/noise_007_ch.png",
-      "textures/noise_012_dzx.png",
-      "textures/noise_012_xz_cgq_01.png",
-      "textures/noise_016_gt.png",
-      "textures/noise_06_ld.png",
-      "textures/noise_114_hl.png",
-      "textures/noise_185_hs.png",
-      "textures/object_002_tps.png",
-      "textures/object_02172_dzx.png",
-      "textures/object_129_dzx.png"
+      "textures/object_02172_dzx.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -199,16 +169,8 @@
     },
     "Expressions": [
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
         "Name": "e_nanguo_biyan",
         "File": "expressions/e_nanguo_biyan.exp3.json"
-      },
-      {
-        "Name": "e_deyi",
-        "File": "expressions/e_deyi.exp3.json"
       },
       {
         "Name": "e_chensi",
@@ -219,20 +181,64 @@
         "File": "expressions/e_shengqi.exp3.json"
       },
       {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_xinnian",
+        "File": "expressions/e_xinnian.exp3.json"
+      },
+      {
+        "Name": "e_chensi",
+        "File": "expressions/e_chensi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_jingya",
         "File": "expressions/e_jingya.exp3.json"
       },
       {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo_biyan",
+        "File": "expressions/e_nanguo_biyan.exp3.json"
+      },
+      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
       {
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
         "Name": "e_xinnian",
         "File": "expressions/e_xinnian.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       }
     ]
   },
@@ -241,8 +247,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen2"
+        "ParamEyeROpen2",
+        "ParamEyeLOpen"
       ]
     },
     {

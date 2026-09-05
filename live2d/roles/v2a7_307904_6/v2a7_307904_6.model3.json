@@ -5,40 +5,7 @@
     "Moc": "v2a7_307904_6.moc3",
     "Textures": [
       "textures/307904_6_00.png",
-      "textures/307904_6_01.png",
-      "textures/307904_6_bloom_00.png",
-      "textures/307904_6_bloom_01.png",
-      "textures/fazhen_003_wx.png",
-      "textures/fazhen_007_zy_1.png",
-      "textures/fazhen_057_hs.png",
-      "textures/fire_024_cx.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_018_gt.png",
-      "textures/glow_025_wx.png",
-      "textures/glow_502_fy.png",
-      "textures/mask_002_lw.png",
-      "textures/mask_009_ch_k.png",
-      "textures/mask_011_hs.png",
-      "textures/mask_018_02zy.png",
-      "textures/mask_115_hs.png",
-      "textures/mask_177c_hy.png",
-      "textures/noise_008_dzx.png",
-      "textures/noise_011_hy.png",
-      "textures/noise_011_xz.png",
-      "textures/noise_019_gt.png",
-      "textures/noise_028_gt.png",
-      "textures/noise_172_hs.png",
-      "textures/noise_185_hs.png",
-      "textures/noise_196_xl.png",
-      "textures/noise_520_fy.png",
-      "textures/object_025_zy_1.png",
-      "textures/object_075_ld.png",
-      "textures/ray_008_xz.png",
-      "textures/smoke_027_lj.png",
-      "textures/trail_003_zx.png",
-      "textures/trail_005_gl16.png",
-      "textures/trail_020_gl16.png",
-      "textures/trail_352_hs.png"
+      "textures/307904_6_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -161,8 +128,32 @@
     },
     "Expressions": [
       {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_kuxiao",
+        "File": "expressions/e_kuxiao.exp3.json"
+      },
+      {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_kuxiao",
+        "File": "expressions/e_kuxiao.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_sikao",
@@ -173,20 +164,24 @@
         "File": "expressions/e_biyan.exp3.json"
       },
       {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
-        "Name": "e_kuxiao",
-        "File": "expressions/e_kuxiao.exp3.json"
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
       }
     ]
   },

@@ -7,11 +7,7 @@
       "textures/314601_xran_00.png",
       "textures/314601_xran_01.png",
       "textures/314601_xran_02.png",
-      "textures/314601_xran_03.png",
-      "textures/314601_xran_bloom_00.png",
-      "textures/314601_xran_bloom_01.png",
-      "textures/314601_xran_bloom_02.png",
-      "textures/314601_xran_bloom_03.png"
+      "textures/314601_xran_03.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -184,24 +180,36 @@
     },
     "Expressions": [
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_yihuo",
         "File": "expressions/e_yihuo.exp3.json"
       },
       {
-        "Name": "e_xinxu",
-        "File": "expressions/e_xinxu.exp3.json"
-      },
-      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_xinxu",
+        "File": "expressions/e_xinxu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_kaixin",
@@ -210,15 +218,26 @@
       {
         "Name": "e_renzhen",
         "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_xinxu",
+        "File": "expressions/e_xinxu.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },
   "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
     {
       "Target": "Parameter",
       "Name": "LipSync",

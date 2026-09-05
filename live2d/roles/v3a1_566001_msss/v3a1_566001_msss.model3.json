@@ -105,6 +105,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -113,9 +117,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
+        "ParamEyeROpen2",
         "ParamEyeLOpen2",
-        "ParamEyeLOpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {

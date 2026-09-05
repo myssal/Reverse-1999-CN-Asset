@@ -5,15 +5,7 @@
     "Moc": "v1a6_300305_hujisheng.moc3",
     "Textures": [
       "textures/300305_hujisheng_00.png",
-      "textures/300305_hujisheng_01.png",
-      "textures/300305_hujisheng_bloom_00.png",
-      "textures/300305_hujisheng_bloom_01.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_00211_hs.png",
-      "textures/glow_003_wx.png",
-      "textures/glow_025_wx.png",
-      "textures/glow_501_fy.png"
+      "textures/300305_hujisheng_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -161,40 +153,76 @@
     },
     "Expressions": [
       {
-        "Name": "e_haixiu",
-        "File": "expressions/e_haixiu.exp3.json"
-      },
-      {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
-      },
-      {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
+        "Name": "e_wumei",
+        "File": "expressions/e_wumei.exp3.json"
       },
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
       },
       {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
       },
       {
         "Name": "e_fangsong",
         "File": "expressions/e_fangsong.exp3.json"
       },
       {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
         "Name": "e_wumei",
         "File": "expressions/e_wumei.exp3.json"
+      },
+      {
+        "Name": "e_fangsong",
+        "File": "expressions/e_fangsong.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
       }
     ]
   },
@@ -203,8 +231,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "s02_310604_kym.moc3",
     "Textures": [
-      "textures/310604_kym_00_bloom.png",
       "textures/310604_kym_00.png",
-      "textures/310604_kym_01_bloom.png",
       "textures/310604_kym_01.png"
     ],
     "DisplayInfo": null,
@@ -72,19 +70,12 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
-    }
-  ]
+  "Groups": []
 }

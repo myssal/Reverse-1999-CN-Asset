@@ -2,19 +2,36 @@
   "Version": 3,
   "Meta": {
     "Duration": 3.967,
-    "Fps": 60.0,
+    "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
     "CurveCount": 3,
-    "TotalSegmentCount": 34,
-    "TotalPointCount": 52,
-    "UserDataCount": 1,
+    "TotalSegmentCount": 33,
+    "TotalPointCount": 54,
+    "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        -90,
+        0,
+        3.967,
+        -90
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.541,
@@ -28,7 +45,7 @@
         0,
         0.267,
         0,
-        2,
+        0,
         0.3,
         0,
         0,
@@ -37,7 +54,7 @@
         0,
         0.8,
         0,
-        2,
+        0,
         0.833,
         0,
         0,
@@ -46,7 +63,7 @@
         0,
         1.4,
         0,
-        2,
+        0,
         1.45,
         0,
         0,
@@ -61,7 +78,7 @@
         0,
         2.717,
         0,
-        2,
+        0,
         2.75,
         0,
         0,
@@ -70,7 +87,7 @@
         0,
         3.367,
         0,
-        2,
+        0,
         3.4,
         0,
         0,
@@ -84,6 +101,8 @@
     {
       "Target": "Parameter",
       "Id": "Param",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         3.934,
@@ -132,7 +151,7 @@
         2.116,
         1.717,
         2.116,
-        2,
+        0,
         2.083,
         2.116,
         0,
@@ -159,23 +178,7 @@
         3.967,
         0
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "Segments": [
-        0,
-        -90,
-        0,
-        3.967,
-        -90
-      ]
     }
   ],
-  "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    }
-  ]
+  "UserData": []
 }

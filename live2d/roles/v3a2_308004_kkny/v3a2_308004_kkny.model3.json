@@ -6,17 +6,6 @@
     "Textures": [
       "textures/308004_kkny_00.png",
       "textures/308004_kkny_01.png",
-      "textures/308004_kkny_bloom_00.png",
-      "textures/308004_kkny_bloom_01.png",
-      "textures/fire_024_cx.png",
-      "textures/glow_001_ybcll.png",
-      "textures/glow_00174_hs.png",
-      "textures/glow_002_wx.png",
-      "textures/mask_075_hs.png",
-      "textures/noise_029_gt.png",
-      "textures/noise_065_cx.png",
-      "textures/noise_065_hs.png",
-      "textures/noise_201_hs.png",
       "textures/object_0931_dzx.png",
       "textures/object_0932_dzx.png",
       "textures/object_0933_dzx.png"
@@ -162,6 +151,14 @@
     },
     "Expressions": [
       {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
         "Name": "e_lengjing",
         "File": "expressions/e_lengjing.exp3.json"
       },
@@ -178,20 +175,44 @@
         "File": "expressions/e_chijing.exp3.json"
       },
       {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
         "Name": "e_chensi",
         "File": "expressions/e_chensi.exp3.json"
       },
       {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_chensi",
+        "File": "expressions/e_chensi.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_lengjing",
+        "File": "expressions/e_lengjing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },

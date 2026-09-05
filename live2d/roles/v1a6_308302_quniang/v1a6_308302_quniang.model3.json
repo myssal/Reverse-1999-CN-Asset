@@ -5,26 +5,9 @@
     "Moc": "v1a6_308302_quniang.moc3",
     "Textures": [
       "textures/308302_quniang_00.png",
-      "textures/308302_quniang_01.png",
-      "textures/308302_quniang_bloom_00.png",
-      "textures/308302_quniang_bloom_01.png",
-      "textures/glow_00174_hs.png",
-      "textures/glow_002_wx.png",
-      "textures/glow_00211_hs.png",
-      "textures/glow_00224333_hs.png",
-      "textures/glow_003_dy.png",
-      "textures/glow_038_hl.png",
-      "textures/mask_001_hl.png",
-      "textures/mask_059_hs.png",
-      "textures/noise_021_xz.png",
-      "textures/noise_028_gt.png",
-      "textures/noise_034_gt.png",
-      "textures/noise_081_hs_c.png",
-      "textures/object_104_hs.png",
-      "textures/ray_016_xz.png",
-      "textures/trail_027_hl.png"
+      "textures/308302_quniang_01.png"
     ],
-    "DisplayInfo": null,
+    "DisplayInfo": "v1a6_308302_quniang.cdi3.json",
     "Physics": null,
     "Motions": {
       "b_beishou": [
@@ -112,16 +95,6 @@
           "File": "motions/t_idle.motion3.json"
         }
       ],
-      "t_kaixin_bizui1": [
-        {
-          "File": "motions/t_kaixin_bizui1.motion3.json"
-        }
-      ],
-      "t_kaixin_bizui2": [
-        {
-          "File": "motions/t_kaixin_bizui2.motion3.json"
-        }
-      ],
       "t_kaixin1": [
         {
           "File": "motions/t_kaixin1.motion3.json"
@@ -130,6 +103,16 @@
       "t_kaixin2": [
         {
           "File": "motions/t_kaixin2.motion3.json"
+        }
+      ],
+      "t_kaixin_bizui1": [
+        {
+          "File": "motions/t_kaixin_bizui1.motion3.json"
+        }
+      ],
+      "t_kaixin_bizui2": [
+        {
+          "File": "motions/t_kaixin_bizui2.motion3.json"
         }
       ],
       "t_nanguo": [
@@ -165,12 +148,32 @@
     },
     "Expressions": [
       {
+        "Name": "e_kaixin1",
+        "File": "expressions/e_kaixin1.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_kaixin2",
+        "File": "expressions/e_kaixin2.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -181,12 +184,20 @@
         "File": "expressions/e_kaixin2.exp3.json"
       },
       {
+        "Name": "e_kaixin1",
+        "File": "expressions/e_kaixin1.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
         "Name": "e_sikao",
         "File": "expressions/e_sikao.exp3.json"
       },
       {
-        "Name": "e_kaixin1",
-        "File": "expressions/e_kaixin1.exp3.json"
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       },
       {
         "Name": "e_shengqi",

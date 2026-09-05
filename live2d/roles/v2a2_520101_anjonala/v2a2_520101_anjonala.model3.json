@@ -5,16 +5,9 @@
     "Moc": "v2a2_520101_anjonala.moc3",
     "Textures": [
       "textures/520101_anjonala_00.png",
-      "textures/520101_anjonala_01.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_020_gt.png",
-      "textures/noise_012_gt.png",
-      "textures/noise_015_gl16.png",
-      "textures/noise_016_gl16.png",
-      "textures/noise_805_fy.png",
-      "textures/trail_003_ld.png",
-      "textures/trail_019_ld_c.png"
+      "textures/520101_anjonala_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_changge1": [
@@ -162,6 +155,34 @@
       {
         "Name": "e_liulei",
         "File": "expressions/e_liulei.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_liulei",
+        "File": "expressions/e_liulei.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
       },
       {
         "Name": "e_nanguo",

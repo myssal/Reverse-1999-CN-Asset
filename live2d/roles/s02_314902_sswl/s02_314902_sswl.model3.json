@@ -4,11 +4,8 @@
   "FileReferences": {
     "Moc": "s02_314902_sswl.moc3",
     "Textures": [
-      "textures/314902_sswl_00_bloom.png",
       "textures/314902_sswl_00.png",
-      "textures/314902_sswl_01_bloom.png",
-      "textures/314902_sswl_01.png",
-      "textures/object_643001_dzx.png"
+      "textures/314902_sswl_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -118,19 +115,12 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
-    }
-  ]
+  "Groups": []
 }

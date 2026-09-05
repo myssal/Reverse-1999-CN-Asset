@@ -6,20 +6,10 @@
     "Textures": [
       "textures/309802_lsp_00.png",
       "textures/309802_lsp_01.png",
-      "textures/309802_lsp_bloom_00.png",
-      "textures/309802_lsp_bloom_01.png",
-      "textures/mask_011_hs.png",
-      "textures/mask_062_hs.png",
-      "textures/mask_078_hs.png",
-      "textures/mask_135c_hs.png",
-      "textures/noise_007_gt.png",
-      "textures/noise_007_xz.png",
-      "textures/noise_008_dzx.png",
-      "textures/noise_009_wx.png",
-      "textures/noise_033_gt.png",
       "textures/object_513_dzx.png",
       "textures/object_514_dzx.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_daliang": [
@@ -144,6 +134,30 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_yuyue",
+        "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_chiyi",
+        "File": "expressions/e_chiyi.exp3.json"
+      },
+      {
+        "Name": "e_shiwang",
+        "File": "expressions/e_shiwang.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
         "Name": "e_shiwang",

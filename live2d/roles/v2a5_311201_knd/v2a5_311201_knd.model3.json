@@ -5,10 +5,7 @@
     "Moc": "v2a5_311201_knd.moc3",
     "Textures": [
       "textures/311201_knd_00.png",
-      "textures/311201_knd_01.png",
-      "textures/311201_knd_bloom_00.png",
-      "textures/311201_knd_bloom_01.png",
-      "textures/glow_001_wx.png"
+      "textures/311201_knd_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -138,6 +135,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -153,8 +154,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

@@ -6,20 +6,7 @@
     "Textures": [
       "textures/305104_wnfld_00.png",
       "textures/305104_wnfld_01.png",
-      "textures/305104_wnfld_bloom_00.png",
-      "textures/305104_wnfld_bloom_01.png",
-      "textures/glow_001_ch.png",
-      "textures/glow_00174_hs.png",
-      "textures/glow_00210_hs.png",
-      "textures/glow_00224334_hs.png",
-      "textures/mask_135c_xl_clp.png",
-      "textures/noise_046_wx.png",
-      "textures/noise_114_hl.png",
-      "textures/noise_197_xl.png",
-      "textures/noise_533_fy.png",
-      "textures/object_6251_dzx.png",
-      "textures/object_92_tps.png",
-      "textures/trail_037_xz.png"
+      "textures/object_6251_dzx.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -177,6 +164,34 @@
     },
     "Expressions": [
       {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_weiyan",
+        "File": "expressions/e_weiyan.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
         "Name": "e_weiyan",
         "File": "expressions/e_weiyan.exp3.json"
       },
@@ -185,24 +200,28 @@
         "File": "expressions/e_weixiao.exp3.json"
       },
       {
-        "Name": "e_kaixin",
-        "File": "expressions/e_kaixin.exp3.json"
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       },
       {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
       },
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       },
       {
         "Name": "e_haixiu",
@@ -211,15 +230,14 @@
       {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
   "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": []
-    },
     {
       "Target": "Parameter",
       "Name": "LipSync",

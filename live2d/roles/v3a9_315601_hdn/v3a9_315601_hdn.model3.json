@@ -70,6 +70,11 @@
           "File": "motions/b_huo_3.motion3.json"
         }
       ],
+      "b_huoyuyin": [
+        {
+          "File": "motions/b_huoyuyin.motion3.json"
+        }
+      ],
       "b_idle": [
         {
           "File": "motions/b_idle.motion3.json"
@@ -188,10 +193,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_daxiao",
-        "File": "expressions/e_daxiao.exp3.json"
-      },
-      {
         "Name": "e_zhansun",
         "File": "expressions/e_zhansun.exp3.json"
       },
@@ -214,6 +215,10 @@
       {
         "Name": "e_xingfen",
         "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
+        "Name": "e_daxiao",
+        "File": "expressions/e_daxiao.exp3.json"
       },
       {
         "Name": "e_shengqi",
@@ -257,8 +262,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

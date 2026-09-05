@@ -6,8 +6,6 @@
     "Textures": [
       "textures/306605_37_00.png",
       "textures/306605_37_01.png",
-      "textures/306605_37_bloom_00.png",
-      "textures/306605_37_bloom_01.png",
       "textures/object_63411_dzx.png",
       "textures/object_63412_dzx.png"
     ],
@@ -142,10 +140,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
-      },
-      {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
       },
@@ -154,8 +148,36 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_yuyue",
+        "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_buman",
+        "File": "expressions/e_buman.exp3.json"
       },
       {
         "Name": "e_nanguo",
@@ -170,8 +192,16 @@
         "File": "expressions/e_chijing.exp3.json"
       },
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
         "Name": "e_buman",
         "File": "expressions/e_buman.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
       }
     ]
   },
@@ -180,8 +210,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

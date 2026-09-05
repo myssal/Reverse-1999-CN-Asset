@@ -5,14 +5,7 @@
     "Moc": "s01_312301_aja.moc3",
     "Textures": [
       "textures/312301_aja_00.png",
-      "textures/312301_aja_01.png",
-      "textures/312301_aja_bloom_00.png",
-      "textures/312301_aja_bloom_01.png",
-      "textures/glow_032_wx.png",
-      "textures/mask_0006_xyq.png",
-      "textures/mask_005_cx.png",
-      "textures/mask_171_hl.png",
-      "textures/object_91_dzx.png"
+      "textures/312301_aja_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -120,6 +113,42 @@
     },
     "Expressions": [
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_yanwu",
+        "File": "expressions/e_yanwu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_huainian",
+        "File": "expressions/e_huainian.exp3.json"
+      },
+      {
+        "Name": "e_tiaokan",
+        "File": "expressions/e_tiaokan.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_tiaokan",
+        "File": "expressions/e_tiaokan.exp3.json"
+      },
+      {
         "Name": "e_yanwu",
         "File": "expressions/e_yanwu.exp3.json"
       },
@@ -130,18 +159,6 @@
       {
         "Name": "e_huainian",
         "File": "expressions/e_huainian.exp3.json"
-      },
-      {
-        "Name": "e_renzhen",
-        "File": "expressions/e_renzhen.exp3.json"
-      },
-      {
-        "Name": "e_tiaokan",
-        "File": "expressions/e_tiaokan.exp3.json"
-      },
-      {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },

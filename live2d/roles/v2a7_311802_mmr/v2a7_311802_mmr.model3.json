@@ -5,14 +5,7 @@
     "Moc": "v2a7_311802_mmr.moc3",
     "Textures": [
       "textures/311802_mmr_00.png",
-      "textures/311802_mmr_01.png",
-      "textures/311802_mmr_bloom_00.png",
-      "textures/311802_mmr_bloom_01.png",
-      "textures/glow_002_tps.png",
-      "textures/glow_002_wx.png",
-      "textures/noise_002_gt.png",
-      "textures/object_029_dzx.png",
-      "textures/smoke_001_tps.png"
+      "textures/311802_mmr_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -115,8 +108,12 @@
     },
     "Expressions": [
       {
-        "Name": "e_shiluo",
-        "File": "expressions/e_shiluo.exp3.json"
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
+      },
+      {
+        "Name": "e_wunai",
+        "File": "expressions/e_wunai.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -127,8 +124,20 @@
         "File": "expressions/e_yansu.exp3.json"
       },
       {
-        "Name": "e_xingfen",
-        "File": "expressions/e_xingfen.exp3.json"
+        "Name": "e_shiluo",
+        "File": "expressions/e_shiluo.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_wunai",
@@ -137,6 +146,14 @@
       {
         "Name": "e_yihuo",
         "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_shiluo",
+        "File": "expressions/e_shiluo.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
       }
     ]
   },
@@ -152,8 +169,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]

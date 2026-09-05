@@ -5,20 +5,9 @@
     "Moc": "v2a3_305304_yaxian.moc3",
     "Textures": [
       "textures/305304_yaxian_00.png",
-      "textures/305304_yaxian_01.png",
-      "textures/305304_yaxian_bloom_00.png",
-      "textures/305304_yaxian_bloom_01.png",
-      "textures/glow_001_wx.png",
-      "textures/glow_00175_hs.png",
-      "textures/glow_00211_hs.png",
-      "textures/glow_003_wx.png",
-      "textures/glow_009_ld.png",
-      "textures/mask_115_hs.png",
-      "textures/noise_002_dy.png",
-      "textures/noise_015_gl16.png",
-      "textures/noise_053_gt.png",
-      "textures/trail_009_gl16.png"
+      "textures/305304_yaxian_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_changge": [
@@ -286,6 +275,38 @@
       {
         "Name": "e_haixiu",
         "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
+        "Name": "e_haixiu",
+        "File": "expressions/e_haixiu.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
+      },
+      {
+        "Name": "e_huaixiao",
+        "File": "expressions/e_huaixiao.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
       },
       {
         "Name": "e_weixiao",

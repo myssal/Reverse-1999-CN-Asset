@@ -4,7 +4,6 @@
   "FileReferences": {
     "Moc": "s02_307705_bfsg.moc3",
     "Textures": [
-      "textures/307705_bfsg_00_bloom.png",
       "textures/307705_bfsg_00.png",
       "textures/object_643002_dzx.png",
       "textures/par_004_tps.png",
@@ -121,6 +120,18 @@
     },
     "Expressions": [
       {
+        "Name": "e_kaixin",
+        "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
       },
@@ -137,8 +148,20 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
+        "Name": "e_kuxiao",
+        "File": "expressions/e_kuxiao.exp3.json"
+      },
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_kaixin",
@@ -153,11 +176,6 @@
       "Ids": [
         "ParamEyeLOpen"
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
     }
   ]
 }

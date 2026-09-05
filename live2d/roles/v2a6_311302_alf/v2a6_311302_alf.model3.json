@@ -6,17 +6,6 @@
     "Textures": [
       "textures/311302_alf_00.png",
       "textures/311302_alf_01.png",
-      "textures/311302_alf_bloom_00.png",
-      "textures/311302_alf_bloom_01.png",
-      "textures/flowmap_001_zy_1.png",
-      "textures/mask_001_sj.png",
-      "textures/mask_005_cx.png",
-      "textures/mask_504_fy.png",
-      "textures/nois_023_ycx.png",
-      "textures/noise_0007_xyq.png",
-      "textures/noise_520_fy.png",
-      "textures/object_0125_dzx.png",
-      "textures/object_0126_dzx.png",
       "textures/object_11214_dzx.png",
       "textures/object_11215_dzx.png",
       "textures/object_11216_dzx.png",
@@ -139,6 +128,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -147,9 +140,9 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
+        "ParamEyeROpen2",
         "ParamEyeROpen",
-        "ParamEyeROpen2"
+        "ParamEyeLOpen"
       ]
     },
     {

@@ -6,22 +6,8 @@
     "Textures": [
       "textures/312801_kr_00.png",
       "textures/312801_kr_01.png",
-      "textures/312801_kr_bloom_00.png",
-      "textures/312801_kr_bloom_01.png",
-      "textures/glow_003_hs_manual.png",
-      "textures/glow_010_ch.png",
-      "textures/glow_029_wx.png",
-      "textures/mask_013ch.png",
-      "textures/mask_140_hs.png",
-      "textures/mask_177c_hs.png",
-      "textures/noise_0007_cx.png",
-      "textures/noise_002_gt.png",
-      "textures/noise_052_wx.png",
-      "textures/noise_185_hs.png",
+      "textures/object_5301_dzx.png",
       "textures/object_5302_dzx.png",
-      "textures/smoke_025_wx.png",
-      "textures/smoke_026_wx.png",
-      "textures/smoke_028_hl.png",
       "textures/smoke_5301_dzx.png"
     ],
     "DisplayInfo": null,
@@ -97,6 +83,10 @@
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       }
     ]
   },
@@ -107,11 +97,6 @@
       "Ids": [
         "ParamEyeLOpen"
       ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": []
     }
   ]
 }

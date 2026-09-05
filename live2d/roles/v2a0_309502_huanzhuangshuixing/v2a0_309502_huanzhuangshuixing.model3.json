@@ -5,22 +5,7 @@
     "Moc": "v2a0_309502_huanzhuangshuixing.moc3",
     "Textures": [
       "textures/309502_huanzhuangshuixing_00.png",
-      "textures/309502_huanzhuangshuixing_01.png",
-      "textures/309502_huanzhuangshuixing_bloom_00.png",
-      "textures/309502_huanzhuangshuixing_bloom_01.png",
-      "textures/glow_00028_hs.png",
-      "textures/glow_001_ch.png",
-      "textures/glow_026_gt.png",
-      "textures/glow_028_gt.png",
-      "textures/mask_073_hs.png",
-      "textures/noise_005_dy.png",
-      "textures/noise_006_zy.png",
-      "textures/noise_06_ld.png",
-      "textures/noise_831_dzx.png",
-      "textures/object_001_ch_sj.png",
-      "textures/object_0162_xz.png",
-      "textures/object_0217_xz.png",
-      "textures/object_931_dzx.png"
+      "textures/309502_huanzhuangshuixing_01.png"
     ],
     "DisplayInfo": null,
     "Physics": null,
@@ -128,12 +113,36 @@
     },
     "Expressions": [
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_biyan",
@@ -165,8 +174,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY",
-        "ParamMouthOpenY2"
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
       ]
     }
   ]
