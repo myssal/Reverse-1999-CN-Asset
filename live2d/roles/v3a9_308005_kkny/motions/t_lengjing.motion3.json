@@ -1,0 +1,148 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 4.117,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 6,
+    "TotalSegmentCount": 23,
+    "TotalPointCount": 29,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        -1,
+        0,
+        4.117,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.25,
+        1,
+        0,
+        0.733,
+        0,
+        0,
+        0.983,
+        1,
+        0,
+        1.267,
+        0,
+        0,
+        1.617,
+        1,
+        0,
+        1.967,
+        0,
+        0,
+        2.4,
+        0.69,
+        0,
+        2.717,
+        0,
+        0,
+        3.017,
+        1,
+        0,
+        3.383,
+        0,
+        0,
+        3.633,
+        1,
+        0,
+        4.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthA",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        4.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthO",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.083,
+        0,
+        0,
+        1.35,
+        -10,
+        0,
+        2.667,
+        -10,
+        0,
+        3.083,
+        10,
+        0,
+        3.4,
+        10,
+        0,
+        3.65,
+        0,
+        0,
+        4.117,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}
