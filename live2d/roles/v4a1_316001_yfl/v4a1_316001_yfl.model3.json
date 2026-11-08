@@ -1,0 +1,251 @@
+{
+  "Version": 3,
+  "Name": "v4a1_316001_yfl",
+  "FileReferences": {
+    "Moc": "v4a1_316001_yfl.moc3",
+    "Textures": [
+      "textures/316001_yfl_00.png",
+      "textures/316001_yfl_01.png",
+      "textures/glow_001_lj_manual.png",
+      "textures/glow_00219_hs.png",
+      "textures/object_070_dr_manual.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_chitang": [
+        {
+          "File": "motions/b_chitang.motion3.json"
+        }
+      ],
+      "b_chitang1": [
+        {
+          "File": "motions/b_chitang1.motion3.json"
+        }
+      ],
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_diaocha": [
+        {
+          "File": "motions/b_diaocha.motion3.json"
+        }
+      ],
+      "b_diaocha1": [
+        {
+          "File": "motions/b_diaocha1.motion3.json"
+        }
+      ],
+      "b_diaocha2": [
+        {
+          "File": "motions/b_diaocha2.motion3.json"
+        }
+      ],
+      "b_diaocha3": [
+        {
+          "File": "motions/b_diaocha3.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_shouzhang": [
+        {
+          "File": "motions/b_shouzhang.motion3.json"
+        }
+      ],
+      "b_shouzhang1": [
+        {
+          "File": "motions/b_shouzhang1.motion3.json"
+        }
+      ],
+      "b_shouzhang2": [
+        {
+          "File": "motions/b_shouzhang2.motion3.json"
+        }
+      ],
+      "b_shouzhang3": [
+        {
+          "File": "motions/b_shouzhang3.motion3.json"
+        }
+      ],
+      "b_tuili": [
+        {
+          "File": "motions/b_tuili.motion3.json"
+        }
+      ],
+      "b_tuili1": [
+        {
+          "File": "motions/b_tuili1.motion3.json"
+        }
+      ],
+      "b_tuili2": [
+        {
+          "File": "motions/b_tuili2.motion3.json"
+        }
+      ],
+      "b_tuili3": [
+        {
+          "File": "motions/b_tuili3.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_chitang": [
+        {
+          "File": "motions/t_chitang.motion3.json"
+        }
+      ],
+      "t_deyi": [
+        {
+          "File": "motions/t_deyi.motion3.json"
+        }
+      ],
+      "t_deyi_bizui": [
+        {
+          "File": "motions/t_deyi_bizui.motion3.json"
+        }
+      ],
+      "t_diankuang": [
+        {
+          "File": "motions/t_diankuang.motion3.json"
+        }
+      ],
+      "t_diankuang_bizui": [
+        {
+          "File": "motions/t_diankuang_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_pijuan": [
+        {
+          "File": "motions/t_pijuan.motion3.json"
+        }
+      ],
+      "t_pijuan_bizui": [
+        {
+          "File": "motions/t_pijuan_bizui.motion3.json"
+        }
+      ],
+      "t_renzhen": [
+        {
+          "File": "motions/t_renzhen.motion3.json"
+        }
+      ],
+      "t_renzhen_bizui": [
+        {
+          "File": "motions/t_renzhen_bizui.motion3.json"
+        }
+      ],
+      "t_sikao": [
+        {
+          "File": "motions/t_sikao.motion3.json"
+        }
+      ],
+      "t_sikao_bizui": [
+        {
+          "File": "motions/t_sikao_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_diankuang1",
+        "File": "expressions/e_diankuang1.exp3.json"
+      },
+      {
+        "Name": "e_diankuang",
+        "File": "expressions/e_diankuang.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_pijuan1",
+        "File": "expressions/e_pijuan1.exp3.json"
+      },
+      {
+        "Name": "e_pijuan",
+        "File": "expressions/e_pijuan.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      },
+      {
+        "Name": "e_diankuang",
+        "File": "expressions/e_diankuang.exp3.json"
+      },
+      {
+        "Name": "e_pijuan1",
+        "File": "expressions/e_pijuan1.exp3.json"
+      },
+      {
+        "Name": "e_diankuang1",
+        "File": "expressions/e_diankuang1.exp3.json"
+      },
+      {
+        "Name": "e_pijuan",
+        "File": "expressions/e_pijuan.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeLOpen2"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

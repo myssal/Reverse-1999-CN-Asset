@@ -1,0 +1,141 @@
+{
+  "Version": 3,
+  "Name": "v4a1_311304_alf",
+  "FileReferences": {
+    "Moc": "v4a1_311304_alf.moc3",
+    "Textures": [
+      "textures/311304_alf_00.png",
+      "textures/311304_alf_01.png",
+      "textures/glow_007_tps.png",
+      "textures/glow_049_cgq.png",
+      "textures/noise_056_zn.png",
+      "textures/object_004_zn.png",
+      "textures/object_11214_dzx.png",
+      "textures/object_11215_dzx.png",
+      "textures/object_11216_dzx.png",
+      "textures/object_11217_dzx.png",
+      "textures/object_11218_dzx.png",
+      "textures/object_11219_dzx.png",
+      "textures/object_11220_dzx.png",
+      "textures/object_11221_dzx.png",
+      "textures/object_68271_dzx.png",
+      "textures/object_68272_dzx.png",
+      "textures/trail_053_cgq.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_fenlie": [
+        {
+          "File": "motions/b_fenlie.motion3.json"
+        }
+      ],
+      "b_fenlie1": [
+        {
+          "File": "motions/b_fenlie1.motion3.json"
+        }
+      ],
+      "b_fenlie2": [
+        {
+          "File": "motions/b_fenlie2.motion3.json"
+        }
+      ],
+      "b_fenlie3": [
+        {
+          "File": "motions/b_fenlie3.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_laqin": [
+        {
+          "File": "motions/b_laqin.motion3.json"
+        }
+      ],
+      "b_qiutu": [
+        {
+          "File": "motions/b_qiutu.motion3.json"
+        }
+      ],
+      "b_xiansuo": [
+        {
+          "File": "motions/b_xiansuo.motion3.json"
+        }
+      ],
+      "b_yanshuo": [
+        {
+          "File": "motions/b_yanshuo.motion3.json"
+        }
+      ],
+      "b_yanshuo1": [
+        {
+          "File": "motions/b_yanshuo1.motion3.json"
+        }
+      ],
+      "b_yanshuo2": [
+        {
+          "File": "motions/b_yanshuo2.motion3.json"
+        }
+      ],
+      "b_yanshuo3": [
+        {
+          "File": "motions/b_yanshuo3.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "b_yingbi": [
+        {
+          "File": "motions/b_yingbi.motion3.json"
+        }
+      ],
+      "b_yingbi1": [
+        {
+          "File": "motions/b_yingbi1.motion3.json"
+        }
+      ],
+      "b_yingbi2": [
+        {
+          "File": "motions/b_yingbi2.motion3.json"
+        }
+      ],
+      "b_yingbi3": [
+        {
+          "File": "motions/b_yingbi3.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      }
+    ]
+  },
+  "Groups": []
+}
